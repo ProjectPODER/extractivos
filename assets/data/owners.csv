@@ -1,37 +1,63 @@
-NOMBRE,TIPO_ENTIDAD,RELACIONADO CON,TIPO_RELACION,PUESTO
-"MINSA, S.A. de C.V.",empresa,,,
-Grupo Minsa S.A.B. de C.V.,empresa,"MINSA, S.A. de C.V.",shareholder,
-"LICONSA, S.A. de C.V.",empresa,,,
-Margarita Del Rocio Ruiz Ramirez,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Andrés González Nieto,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Erics Ivan Ruíz Espinoza,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Othoniel Melchor Peña Montor,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Ignacio Cobos Huesca,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Claudia Galguera Aparicio,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Marco Antonio Sánchez Colín,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Carlos Zarate Chavez,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Gerónimo Color Gasca,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Luis Gendron Pensado,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Efrain Rivero Euan,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Juan José Díaz Rodríguez,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Geronimo Eduardo Corona Alcala,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Elizabeth Blackmore Smer,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Gerardo Piña Coronel,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Mónica Alejandra Martínez Duarte,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Jose Maria Jimenez Contreras,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Pedro Vazquez Vazquez,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Brendali Guadalupe Figueroa Flores,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Juan Jose Galguera García,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Carlos Aguilera Andrade,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-David Juvenal Saucedo Gonzalez,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Gabriela Ponce Medina,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Aleyda Lidoyne Jonguitud Austria,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Rosa Maria Vargas Cuellar,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Roberto Bravo Flores,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Sergio Martinez Burboa,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Karla Teresa Blancas Pizaña,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Marcos Pérez Jiménez,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Rubén Vega López,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Maria Del Carmen Narvaez Flores,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Julián Rosales Ramírez,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
-Hugo Paz Sosa,persona,"LICONSA, S.A. de C.V.",boardmember,Responsible of Compranet
+﻿NOMBRE,TIPO_ENTIDAD,RELACIONADO_CON,TIPO_RELACION,PUESTO
+(valores posibles: nombre de personas o empresas),(valores posibles: persona o empresa),(valores posibles: nombre de empresa beneficiada),"(valores posibles: shareholder, boardmember, parent)","(valores posibles: presidente, vicepresidente, nulo)"
+"COBRE DE SONORA, S.A. DE C.V.",empresa,"MINERA METEORO, S.A. DE C.V.",parent,
+"COMPAÑIA SAN FELIPE, S.A. DE C.V.",empresa,"MINERA FRISCO, S.A.B. DE C.V.",parent,
+"MINERA METEORO, S.A. DE C.V.",empresa,"MINERA FRISCO, S.A.B. DE C.V.",parent,
+IGNACIO GORDOA CABRERO,empresa,"MINERA FRISCO, S.A.B. DE C.V.",parent,
+LUCIO SANCHEZ SILVA,empresa,"JDC MINERALES, S.A. DE C.V. ",parent,
+JOSE CARLOS COUTIÑO MORALES,empresa,"EXPLORACIONES MINERAS PARREÑA, S.A. DE C.V.",parent,
+"EXPLORACIONES MINERAS PARREÑA, S.A. DE C.V.",empresa,"INDUSTRIAS PEÑOLES, S.A.B. DE C.V.",parent,
+"INDUSTRIAS PEÑOLES, S.A.B. DE C.V.",empresa,GRUPO BAL S.A. DE C.V.,parent,
+SAUL ROMERO MARTINEZ,empresa,"MEXICAN SILICATES, S.A. DE C.V. ",parent,
+"MEXICAN SILICATES, S.A. DE C.V. ",empresa,GRUPPO MINERALI MAFFIE S.P.A ,parent,
+"MATERIAS PRIMAS MINERALES DE AHUAZOTEPEC, S. DE R.L. DE C.V.",empresa,COVIA HOLDINGS LLC,parent,
+"MINERA GAVILAN, S.A. DE C.V.",empresa,ALMADEN MINERALS LTD.,parent,
+"GRUPO FERROMINERO, S.A. DE C.V.",empresa,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",parent,
+"COMPAÑIA MINERA AUTLAN, S.A. DE C.V.",empresa,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",parent,
+"MINAS DE SANTA MARTHA, S.A.",empresa,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",parent,
+MINERA SAN FRANCISCO DEL ORO S.A. DE C.V.,empresa,"MINERA FRISCO, S.A.B. DE C.V.",parent,
+"MINERA INDUSTRIAL REGIOMONTANA, S.A.",empresa,INGERSOLL RAND PLC.,parent,
+"COMPAÑIA RECUPERADORA DE ESCORIAS, S.A. DE C.V.",empresa,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",parent,
+"MINERA GORRION, S.A. DE C.V.",empresa,ALMADEN MINERALS LTD.,parent,
+Duane Poliquin ,persona,ALMADEN MINERALS LTD.,shareholder,presidente
+Morgan Poliquin,persona,ALMADEN MINERALS LTD.,shareholder,presidente
+Elaine Ellingham ,persona,ALMADEN MINERALS LTD.,shareholder,
+Kevin O'Kane ,persona,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",boardmember,
+Kevin O'Kane ,persona,ALMADEN MINERALS LTD.,shareholder,
+Alfredo Phillips ,persona,ALMADEN MINERALS LTD.,shareholder,
+Ria Fitzgerald ,persona,ALMADEN MINERALS LTD.,shareholder,
+Korm Trieu,persona,ALMADEN MINERALS LTD.,shareholder,
+Doug McDonald ,persona,ALMADEN MINERALS LTD.,shareholder,
+John A. Thomas ,persona,ALMADEN MINERALS LTD.,shareholder,
+Shawn Williams,persona,COVIA HOLDINGS LLC,boardmember,presidente
+J. Donald Sheets ,persona,COVIA HOLDINGS LLC,boardmember,vicepresidente
+Andrew Eich ,persona,COVIA HOLDINGS LLC,boardmember,presidente
+Paul Gordon ,persona,COVIA HOLDINGS LLC,boardmember,
+Robert Kirby ,persona,COVIA HOLDINGS LLC,boardmember,
+Phil Barkhorn ,persona,COVIA HOLDINGS LLC,boardmember,
+William Wang ,persona,COVIA HOLDINGS LLC,boardmember,
+Andrea Bettini,persona,GRUPPO MINERALI MAFFIE S.P.A ,boardmember,
+Sabrina Bozzola,persona,GRUPPO MINERALI MAFFIE S.P.A ,boardmember,
+Paolo Danasino,persona,GRUPPO MINERALI MAFFIE S.P.A ,boardmember,
+Vera Ramon,persona,GRUPPO MINERALI MAFFIE S.P.A ,boardmember,
+Pierangelo Stangalino,persona,GRUPPO MINERALI MAFFIE S.P.A ,boardmember,
+Stefano Tronconi,persona,GRUPPO MINERALI MAFFIE S.P.A ,boardmember,
+Marco Bargioni,persona,GRUPPO MINERALI MAFFIE S.P.A ,boardmember,
+Pier Camillo Baù,persona,GRUPPO MINERALI MAFFIE S.P.A ,boardmember,
+Giuliano Colavito,persona,GRUPPO MINERALI MAFFIE S.P.A ,boardmember,
+PAVIM S.r.l. ,empresa,GRUPPO MINERALI MAFFIE S.P.A ,shareholder,
+INIZIATIVE MINERARIE S.r.l.,empresa,GRUPPO MINERALI MAFFIE S.P.A ,shareholder,
+Familia Rivero González,empresa,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",shareholder,
+José Antonio Rivero Larrea,persona,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",boardmember,presidente
+Pedro Rivero González,persona,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",boardmember,presidente
+María Guadalupe González,persona,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",boardmember,
+José Antonio Rivero González Jr.,persona,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",boardmember,
+María Rivero González,persona,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",boardmember,
+Antonio Elosúa González,persona,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",boardmember,
+Dionisio Garza Medina Sarda,persona,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",boardmember,
+Everardo Elizondo,persona,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",boardmember,
+Fernando de Jesús Canales Clariond,persona,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",boardmember,
+Francisco Javier Garza Zambrano,persona,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",boardmember,
+Oscar Maldonado Charles,persona,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",boardmember,
+Pedro Alberto Reynoso Jr.,persona,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",boardmember,
+Ricardo Sada Villarreal,persona,"AUTLÁN HOLDING, S.A.P.I. DE C.V.",boardmember,
