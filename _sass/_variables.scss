@@ -32,12 +32,12 @@ $blue:         #008aa9;
 $light-orange: #e08C74;
 $light-green:  #7cd432;
 $green:        #20a100;
-$brown:        #967528;
+$gold:        #967528;
 $dark-blue:    #21324c;
 $light-blue:   #5fd2ef;
 $dark-green:   #1e4e1e;
 
-$primary:       $blue !default;
+$primary:       $dark-blue !default;
 $secondary:     $yellow !default;
 $success:       $green !default;
 $info:          $cyan !default;
@@ -59,7 +59,7 @@ $graphTooltipTitleColor: $info;
 // Links
 //
 // Style anchor elements.
-$link-color:                $primary !default;
+$link-color:                $green !default;
 $link-decoration:           none !default;
 $link-hover-color:          darken($link-color, 15%) !default;
 $link-hover-decoration:     underline !default;
