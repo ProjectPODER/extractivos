@@ -15,19 +15,30 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black:    #000 !default;
 
-$blue:    #27408B !default;
+//$blue:    #27408B !default;
 $indigo:  #6610f2 !default;
 $purple:  #6f42c1 !default;
 $pink:    #e83e8c !default;
 $red:     #dc3545 !default;
 $orange:  #fd7e14 !default;
-$yellow:  #ffc107 !default;
-$green:   #28a745 !default;
+//$yellow:  #ffc107 !default;
+//$green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #1491a5 !default;
 
-$primary:       $red !default;
-$secondary:     $blue !default;
+//Project colors
+$yellow:       #f7d301;
+$blue:         #008aa9;
+$light-orange: #e08C74;
+$light-green:  #7cd432;
+$green:        #20a100;
+$brown:        #967528;
+$dark-blue:    #21324c;
+$light-blue:   #5fd2ef;
+$dark-green:   #1e4e1e;
+
+$primary:       $blue !default;
+$secondary:     $yellow !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
@@ -39,7 +50,7 @@ $dark:          $gray-800 !default;
 //Home background image
 //You need to change only the name and the type of your image
 //For example:./img/your-image.png
-$bgHome : "./img/bg-masthead.jpg";
+$bgHome : "./img/ilustracion_proyectos_extractivos_SNP3.png";
 
 // Graph tooltip title color
 $graphTooltipTitleColor: $info;

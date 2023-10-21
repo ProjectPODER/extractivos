@@ -41,7 +41,7 @@ graph:
   - title: "Nombre del gráfico"
   # los tamaños minimos y maximos de los nodos (en pixeles, aproximado)
   - sizes:
-    - min: 10
+    - min: 20
     - max: 300
   # colores de nodos y connectores
   - colours:

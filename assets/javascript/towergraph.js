@@ -728,8 +728,8 @@ function initGraph(data) {
         id: contract._id,
         name: contract.title,
         amount: contract.amount,
-        activeSize: Math.log(contract.amount) / 2,
-        inactiveSize: 30,
+        activeSize: Math.log(contract.amount) / 1,
+        inactiveSize: 20,
         topParentNode: false,
         nodeForce: 0.6,
         type: 'contract',
@@ -1801,8 +1801,8 @@ function setupD3() {
                 const contractsAmountText = AppData.texts.contracts_amount_text;
                 return `
                       <p class="title">${projectTitle}</p>
-                <p>Número de contratos: <span>${contractsTotalText}</span></p>
-                <p>Importe contratado: <span>$${contractsAmountText}M</span></p>
+                <p>Número de proyectos: <span>${contractsTotalText}</span></p>
+                <p>Hectáreas: <span>${contractsAmountText}</span></p>
                 `; // FIXME esto debe ser parametrizable para cambiar el título del proyecto dentro del tooltip
                 break;
               }
@@ -1812,8 +1812,8 @@ function setupD3() {
                 const contractsAmountText = numberWithCommas((+ d.contractsAmount).toFixed(0));
                 return `
                       <p class="title">${d.name}</p>
-                <p>Número de contratos: <span>${contractsCountText}</span></p>
-                <p>Importe contratado: <span>$${contractsAmountText}</span></p>
+                <p>Número de proyectos: <span>${contractsCountText}</span></p>
+                <p>Hectáreas: <span>${contractsAmountText}</span></p>
                 `;
                 break;
               }
@@ -1825,7 +1825,7 @@ function setupD3() {
                       <p class="title">${d.name}</p>
                       <span>Proveedores:</span>
                 <ul> ${suppliersListHTML}</ul>
-                <p>Importe contratado: <span>$${amountText}</span></p>
+                <p>Hectáreas: <span>${amountText}</span></p>
                 `;
                 break;
               }
@@ -1836,8 +1836,8 @@ function setupD3() {
                 const contractsAmount = numberWithCommas((+ d.contractsAmount).toFixed(0));
                 return `
                       <p class="title">${nameText}</p>
-                <p>Número de contratos: <span>${contractsCountText}</span></p>
-                <p>Importe contratado: <span>$${contractsAmount}</span></p>
+                <p>Número de proyectos: <span>${contractsCountText}</span></p>
+                <p>Hectáreas: <span>${contractsAmount}</span></p>
                 `;
                 break;
               }
@@ -1850,9 +1850,8 @@ function setupD3() {
                   : "orgs";
                 return `
                       <p class="title">${nameText}</p>
-                      <p>Contratos: ${contractsCount}</p>
-                      <p>${descriptionLink}:</p>
-                      <p><a rel="noreferrer noopener" target="_blank" href="https://quienesquien.wiki/${typeText}/${nameText}">https://quienesquien.wiki/${typeText}/${nameText}</a></p>
+                      <p>Proyectos: ${contractsCount}</p>
+
                 `;
                 break;
               }
