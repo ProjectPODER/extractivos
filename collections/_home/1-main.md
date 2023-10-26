@@ -13,9 +13,9 @@ media-left: false
 
 
 ---
-# EXTRACTIVOS
+# PROYECTOS EXTRACTIVOS EN LA SIERRA NORTE DE PUEBLA
 
-TowerBuilder es un sistema para generar sitios web con visualizaciones de datos que combinan datos de contrataciones abiertas y beneficiarios reales, todo sin necesidad de conocimientos de programación.
+Los proyectos extractivos en la Sierra Norte de Puebla (SNP), algunos vigentes desde hace décadas, amenazan las formas de vida de las comunidades y la integridad de sus bosques, al extraer los recursos naturales, en gran volumen y en alta intensidad.
 
 [Ver documentación](https://towerbuilder.readthedocs.io/es/latest/index.html)
 

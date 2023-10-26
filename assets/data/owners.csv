@@ -25,19 +25,20 @@ NORGES BANK INVESTMENT MANAGEMENT,empresa,"NEOEN, S. A.",shareholder,
 "IBERDROLA, S. A.",empresa,"IBERDROLA RENOVABLES NORTE, S. A. DE C. V.",parent,
 TC ENERGY CORPORATION ,empresa,"TRANSPORTADORA DE GAS NATURAL DE LA HUASTECA, S. DE R. L. DE C. V.",parent,
 COMISIÓN FEDERAL DE ELECTRICIDAD,empresa,"TRANSPORTADORA DE GAS NATURAL DE LA HUASTECA, S. DE R. L. DE C. V.",shareholder,
+"GENERADORA FÉNIX, S. A. P. I. DE C. V.",empresa,
 "MOTA-ENGIL MÉXICO, S. A. DE C. V.",empresa,"GENERADORA FÉNIX, S. A. P. I. DE C. V.",parent,
 "MOTA-ENGIL, SGPS, S. A.",empresa,"MOTA-ENGIL MÉXICO, S. A. DE C. V.",parent,
 SINDICATO MEXICANO DE ELECTRICISTAS,empresa,"GENERADORA FÉNIX, S. A. P. I. DE C. V.",shareholder,
-Duane Poliquin ,persona,ALMADEN MINERALS LTD.,shareholder,presidente
-Morgan Poliquin,persona,ALMADEN MINERALS LTD.,shareholder,presidente
-Elaine Ellingham ,persona,ALMADEN MINERALS LTD.,shareholder,
+Duane Poliquin ,persona,"ALMADEN MINERALS, LTD.",shareholder,presidente
+Morgan Poliquin,persona,"ALMADEN MINERALS, LTD.",shareholder,presidente
+Elaine Ellingham ,persona,"ALMADEN MINERALS, LTD.",shareholder,
 Kevin O'Kane ,persona,"AUTLÁN HOLDING, S. A. P. I. DE C. V.",boardmember,
-Kevin O'Kane ,persona,ALMADEN MINERALS LTD.,shareholder,
-Alfredo Phillips ,persona,ALMADEN MINERALS LTD.,shareholder,
-Ria Fitzgerald ,persona,ALMADEN MINERALS LTD.,shareholder,
-Korm Trieu,persona,ALMADEN MINERALS LTD.,shareholder,
-Doug McDonald ,persona,ALMADEN MINERALS LTD.,shareholder,
-John A. Thomas ,persona,ALMADEN MINERALS LTD.,shareholder,
+Kevin O'Kane ,persona,"ALMADEN MINERALS, LTD.",shareholder,
+Alfredo Phillips ,persona,"ALMADEN MINERALS, LTD.",shareholder,
+Ria Fitzgerald ,persona,"ALMADEN MINERALS, LTD.",shareholder,
+Korm Trieu,persona,"ALMADEN MINERALS, LTD.",shareholder,
+Doug McDonald ,persona,"ALMADEN MINERALS, LTD.",shareholder,
+John A. Thomas ,persona,"ALMADEN MINERALS, LTD.",shareholder,
 Shawn Williams,persona,"COVIA HOLDINGS, LLC",boardmember,presidente
 J. Donald Sheets ,persona,"COVIA HOLDINGS, LLC",boardmember,vicepresidente
 Andrew Eich ,persona,"COVIA HOLDINGS, LLC",boardmember,presidente
