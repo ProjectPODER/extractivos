@@ -1,4 +1,13 @@
 
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+@font-face {
+    font-family: ompu;
+    src: url("../assets/fonts/Ompu0.2-Bold.ttf");
+}
+
 section.page,
 section.posts-page,
 section.post-page,
@@ -8,6 +17,8 @@ section#contracts_page {
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: bold;
+    font-family: ompu;
+    // letter-spacing: 1px;
 }
 
 blockquote {
@@ -29,3 +40,4 @@ a {
 .min-vh-100 {
     min-height: 100vh !important;
 }
+

@@ -12,10 +12,11 @@
     background-size: cover;
 
     h1 {
-        font-size: 70px;
-        line-height: 75px;
+        font-size: 85px;
+        line-height: 90px;
         margin-bottom: 2rem;
         font-weight: bolder;
+        text-shadow: $dark-blue 6px 5px 1px;
     }
 
     h1,
@@ -29,6 +30,17 @@
         @extend .btn;
         @extend .btn-primary;
         margin: 2rem 0.5rem 1rem 0.5rem;
+        font-weight: 500;
+    }
+    .main-text {
+        font-weight: 500;
+        display: inline-block;
+        background-color: rgba(0,0,0,0.2);
+        color: white;
+        padding: 20px;
+        border-radius: 1em;
+        text-shadow: black 0 0 5px;
+        box-shadow: 0 0 50px rgba(0,0,0,0.4);
     }
 }
 

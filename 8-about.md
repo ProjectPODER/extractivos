@@ -1,29 +1,27 @@
 ---
 layout: page
-title: Sobre el proyecto
-permalink: /sobre-el-proyecto/
+title: ¿Quiénes somos?
+permalink: /quienes-somos/
 ---
 
 ## Quiénes somos
 
-Proyectos Extractivos en la Sierra Norte de Puebla (SNP) es una investigación que analiza la problemática de los proyectos extractivos, algunos de ellos vigentes desde hace décadas, que amenazan las formas de vida de las comunidades y la integridad de sus bosques. Este proyecto surge de entender el manejo forestal comunitario, el ecoturismo y el aprovechamiento no maderable del bosque como estrategias para la defensa del territorio que se originan a partir de la organización comunitaria.
+Proyectos Extractivos en la Sierra Norte de Puebla (SNP) es un proyecto de investigación, cartografía participativa y organización comunitaria de PODER y el CRDBT que  muestra la problemática de los proyectos extractivos en la SNP que amenazan las formas de vida de las comunidades y la integridad de sus bosques, aguas y territorios. Además documenta la fortaleza de la organización de las comunidades locales de la región quienes defienden los bosques, el agua y el territorio.
 
 ## Metodología
 
-Para analizar los proyectos y las empresas presentes en la SNP, se emplea la metodología de análisis corporativo y financiero con perspectiva de derechos humanos desarrollada por PODER. Para ello se consultó una diversidad de fuentes entre las que se cuenta la información pública de las empresas que aquí se analizan (informes anuales y trimestrales, reportes a agencias reguladoras y análisis financieros). También se incluye información sobre concesiones y contratos obtenida a través de la Plataforma Nacional de Transparencia.
+Para analizar los proyectos y las empresas presentes en la SNP se emplea la metodología de análisis corporativo y financiero con perspectiva de derechos humanos desarrollada por PODER. Se consultaron diferentes fuentes de información, entre las que se cuenta la información pública de las empresas(informes anuales y trimestrales, reportes a agencias reguladoras y análisis financieros). Información pública sobre concesiones y contratos obtenida a través de la Plataforma Nacional de Transparencia. Se realizaron solicitudes de acceso a la información al Centro Nacional de Control del Gas Natural (CENAGAS), a la Secretaría de Energía (SENER), a la Comisión Nacional de Hidrocarburos (CNH), a la Comisión Reguladora de Energía (CRE), a la Secretaría de Medio Ambiente y los Recursos Naturales (Semarnat), a la Comisión Nacional del Agua (Conagua) y a la Secretaría de Economía (SE) para obtener información oficial sobre las asignaciones, manifestaciones de impacto ambiental, contratos y concesiones de agua de proyectos mineros, hidroeléctricos, fotovoltaicos, eólicos, geotérmicos e hidrocarburos otorgados en el estado de Puebla desde el año 2000.
 
-Esta investigación se fundamenta en el trabajo de colaboración y acompañamiento que realizamos con el Colectivo Regional en Defensa de los Bosques y el Territorio (CRDBT), el cual está conformado por 19 ejidos y 2 organizaciones forestales pertenecientes a los municipios de Zacatlán, Chignahuapan, Ixtacamaxtitlán, Aquixtla y Ahuazotepec. El CRDBT existe para proteger los bienes naturales de la sobre explotación industrial, el consumo excesivo de las grandes ciudades y las omisiones de quienes toman decisiones, mediante el aprovechamiento sustentable y comunitario de los bosques. Esta investigación se nutre permanentemente del diálogo con el CRDBT al mismo tiempo que se propone como una aportación para seguir fortaleciendo su labor y su vinculación con otros colectivos y organizaciones de la región.
-
-Se realizaron solicitudes de acceso a la información a CENAGAS, a la Secretaría de Energía, a la Comisión Nacional de Hidrocarburos, a la Comisión Reguladora de Energía, a la Secretaria del Medio Ambiente y los Recursos Naturales, a la Comisión Nacional del Agua y a la Secretaría de Economía para obtener información oficial sobre las asignaciones, manifestaciones de impacto ambiental, contratos y concesiones de agua de proyectos hidroeléctricos, fotovoltaicos, eólicos, geotérmicos e hidrocarburos otorgados al Estado de Puebla desde el año 2000.
+Esta investigación es producto del trabajo de colaboración entre PODER y el CRDBT. El colectivo está conformado por 19 ejidos y 2 organizaciones forestales pertenecientes a los municipios de Zacatlán, Chignahuapan, Ixtacamaxtitlán, Aquixtla y Ahuazotepec en el estado de Puebla, México. El CRDBT existe para proteger los bienes naturales de la sobre explotación industrial, el consumo excesivo de las grandes ciudades y las omisiones de quienes toman decisiones, mediante el aprovechamiento sustentable y comunitario de los bosques. Esta investigación se nutre permanentemente del diálogo con el CRDBT al mismo tiempo que se propone como un aporte para fortalecer su labor y su vinculación con otros colectivos y organizaciones de la región. Erik Post participó en en la investigación y el diálogo  en el marco del Public Scholarship Initiative que es parte de su doctorado en Geografía en la University of British Columbia.
 
 
 # Visualización y micrositio
 
-El proyecto utiliza el sistema Tower Builder, creado por PODER, para generar sitios web con visualizaciones de datos de contrataciones y beneficiarios reales. Está pensado para seguir el dinero en grandes procesos de compra, se ha usado anteriormente para el monitoreo de grandes obras públicas como en TorreDeControl y de las compras públicas del IMSS
+El proyecto utiliza el sistema Tower Builder, creado por PODER, para generar sitios web con visualizaciones de datos de contrataciones y beneficiarios reales. Está pensado para seguir el dinero en grandes proyectos de participación pública y privada. Se ha usado anteriormente para el monitoreo de grandes obras públicas como en TorreDeControl y el Tren Maya.
 
 # Créditos
 
-- Investigación: Diana Silva, Erik Post y Samantha Camacho
+- Investigación: Isabel Clavijo, Samantha Camacho, Diana Alejandra Silva y Erik Post
 - Cartografía: Samantha Camacho
 - Desarrollo: Marisol Carrillo
 - Diseño editorial e ilustración: Adrián Sánchez Martínez

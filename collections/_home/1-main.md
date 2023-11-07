@@ -15,10 +15,12 @@ media-left: false
 ---
 # PROYECTOS EXTRACTIVOS EN LA SIERRA NORTE DE PUEBLA
 
-Los proyectos extractivos en la Sierra Norte de Puebla (SNP), algunos vigentes desde hace décadas, amenazan las formas de vida de las comunidades y la integridad de sus bosques, al extraer los recursos naturales, en gran volumen y en alta intensidad.
+{:.main-text}
+Los proyectos extractivos de minería, energía e hidrocarburos amenazan la continuidad de la vida y la integridad del medio ambiente y el tejido social en la Sierra Norte de Puebla. Las comunidades indígenas, campesinas y locales se organizan para construir un modelo alternativo de desarrollo que tenga en el centro la protección y el manejo sustentable de los bosques y el cuidado del agua, el territorio y la vida.
 
-[Ver documentación](https://towerbuilder.readthedocs.io/es/latest/index.html)
-
-
+[Amenazas](/extractivos/extractivismo-en-la-snp/)
+[Perpetradoras](/extractivos/dueñas-de-la-sierra/)
+[Alternativas comunitarias](/extractivos/alternativas-comunitarias/)
+[Investigación](/extractivos/proyectos-extractivos-de-la-snp/)
 
 

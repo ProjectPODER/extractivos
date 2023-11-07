@@ -3,6 +3,6 @@ title: Slide 1
 image: visualization-example.png
 ---
 
-# Proyectos en la SNP
+# Extractivismo hambriento
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+La Sierra Norte de Puebla ha experimentado una imposición de proyectos extractivos en las últimas décadas. Al **menos 188,421 hectáreas de la región han sido entregadas a empresas privadas para desarrollar proyectos extractivos de gran escala**. Hay **10 proyectos extractivos activos en la SNP**. Frecuentemente las empresas operan sin permisos y la información de los proyectos está reservada. Las actividades extractivas generan impactos sociales y ambientales negativos significativos y han sido impuestos violentamente.

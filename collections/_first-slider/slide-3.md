@@ -1,8 +1,8 @@
 ---
 title: Slide 3
-image: graphic-example3.png
+video: https://vimeo.com/579490899/d6582d7fb9?share=copy
 ---
 
-# ESTE ES EL TERCER SLIDE
+# Incendios Forestales en la Sierra Norte de Puebla
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Los incendios forestales han aumentado en cantidad e intensidad en la Sierra Norte de Puebla como consecuencia del cambio climático. En este documental se da a conocer cómo desde las comunidades campesinas y forestales se organizan para la prevención, el combate y la remediación de incendios en la región. Si bien la autogestión sostiene la vida del bosque generando beneficios para las comunidades y para toda la población, es necesario que se conozca más sobre esta problemática para contribuir con su mitigación y apoyar la labor que desde las comunidades realizan.

@@ -67,7 +67,7 @@ graph:
   - contracts_format: "csv"
 
 # Personaliza los títulos y placeholders de los inputs en el buscador de contratos
-contracts_title: Proyectos por empresas
+contracts_title: Buscador de proyectos
 search_title: Búsqueda
 search_placeholder: Introduce palabra clave a buscar
 amount_title: Hectáreas totales
