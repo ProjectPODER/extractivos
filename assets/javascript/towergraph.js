@@ -728,7 +728,7 @@ function initGraph(data) {
         id: contract._id,
         name: contract.title,
         amount: contract.amount,
-        activeSize: Math.log(contract.amount) / 1,
+        activeSize: Math.log(contract.amount) * 2,
         inactiveSize: 20,
         topParentNode: false,
         nodeForce: 0.6,

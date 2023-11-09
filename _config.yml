@@ -17,7 +17,7 @@
 title: Tower Builder
 
 # Imagen del logo
-image: tb-logo.png
+image:
 
 #Descripción de tu sitio
 description: >-
@@ -49,9 +49,9 @@ graph:
           - default: '#f7d301'
           - contract: '#f7d301'
           - contractTypes: '#7cd432'
-          - contractByType: '#5fd2ef'
+          - contractByType: 'rgba(85,189,215,0.6)'
           - organization: '#e08C74'
-          - shareholderPerson: 'rgba(150,117,40,0.7)'
+          - shareholderPerson: 'rgba(150,117,40,0.5)'
       - links:
           - default: '#706F74'
           - contractsTypes: '#706F74'
