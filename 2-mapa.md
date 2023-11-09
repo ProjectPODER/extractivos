@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Extractivismo en la SNP
+title: Mapa del despojo
 permalink: /extractivismo-en-la-snp/
 ---
 
