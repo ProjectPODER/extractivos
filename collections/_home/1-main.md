@@ -13,13 +13,13 @@ media-left: false
 
 
 ---
-# La industria del saqueo en la Sierra Norte de Puebla
+# La industria del despojo en la Sierra Norte de Puebla
 
 {:.main-text}
-Los proyectos extractivos de minería, energía e hidrocarburos amenazan la continuidad de la vida y la integridad del medio ambiente y el tejido social en la Sierra Norte de Puebla. Las comunidades indígenas, campesinas y locales se organizan para construir un modelo alternativo de desarrollo que tenga en el centro la protección y el manejo sustentable de los bosques y el cuidado del agua, el territorio y la vida.
+Los proyectos de minería, energía e hidrocarburos amenazan la continuidad de la vida y la integridad del medio ambiente en la Sierra Norte de Puebla. Las comunidades indígenas, campesinas y locales se organizan para construir un modelo alternativo de desarrollo que tenga en el centro el manejo sustentable de los bosques y el cuidado del agua, el territorio y la vida.
 
 [Amenazas](/extractivos/extractivismo-en-la-snp/)
-[Perpetradoras](/extractivos/dueñas-de-la-sierra/)
+[Dueñxs](/extractivos/dueñas-de-la-sierra/)
 [Alternativas comunitarias](/extractivos/alternativas-comunitarias/)
 [Protegiendo la SNP](/extractivos/la-defensa-de-la-snp/)
 
