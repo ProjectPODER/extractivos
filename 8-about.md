@@ -4,7 +4,7 @@ title: ¿Quiénes somos?
 permalink: /quienes-somos/
 ---
 
-## Quiénes somos
+# Quiénes somos
 
 Proyectos Extractivos en la Sierra Norte de Puebla (SNP) es un proyecto de investigación, cartografía participativa y organización comunitaria de PODER y el CRDBT que  muestra la problemática de los proyectos extractivos en la SNP que amenazan las formas de vida de las comunidades y la integridad de sus bosques, aguas y territorios. Además documenta la fortaleza de la organización de las comunidades locales de la región quienes defienden los bosques, el agua y el territorio.
 
@@ -15,11 +15,11 @@ Para analizar los proyectos y las empresas presentes en la SNP se emplea la meto
 Esta investigación es producto del trabajo de colaboración entre PODER y el CRDBT. El colectivo está conformado por 19 ejidos y 2 organizaciones forestales pertenecientes a los municipios de Zacatlán, Chignahuapan, Ixtacamaxtitlán, Aquixtla y Ahuazotepec en el estado de Puebla, México. El CRDBT existe para proteger los bienes naturales de la sobre explotación industrial, el consumo excesivo de las grandes ciudades y las omisiones de quienes toman decisiones, mediante el aprovechamiento sustentable y comunitario de los bosques. Esta investigación se nutre permanentemente del diálogo con el CRDBT al mismo tiempo que se propone como un aporte para fortalecer su labor y su vinculación con otros colectivos y organizaciones de la región. Erik Post participó en en la investigación y el diálogo  en el marco del Public Scholarship Initiative que es parte de su doctorado en Geografía en la University of British Columbia.
 
 
-# Visualización y micrositio
+## Visualización y micrositio
 
 El proyecto utiliza el sistema Tower Builder, creado por PODER, para generar sitios web con visualizaciones de datos de contrataciones y beneficiarios reales. Está pensado para seguir el dinero en grandes proyectos de participación pública y privada. Se ha usado anteriormente para el monitoreo de grandes obras públicas como en TorreDeControl y el Tren Maya.
 
-# Créditos
+## Créditos
 
 - Investigación: Isabel Clavijo, Samantha Camacho, Diana Alejandra Silva y Erik Post
 - Cartografía: Samantha Camacho
