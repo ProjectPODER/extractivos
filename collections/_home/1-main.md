@@ -13,7 +13,7 @@ media-left: false
 
 
 ---
-# La apuesta extractiva por la Sierra Norte de Puebla
+# Sierra de apuestas
 
 {:.main-text}
 Los proyectos de minería, energía e hidrocarburos amenazan la continuidad de la vida y la integridad del medio ambiente en la Sierra Norte de Puebla. Las comunidades indígenas, campesinas y locales se organizan para construir un modelo alternativo de desarrollo que tenga en el centro el manejo sustentable de los bosques y el cuidado del agua, el territorio y la vida.
