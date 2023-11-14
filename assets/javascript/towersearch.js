@@ -58,7 +58,7 @@ function initSearch() {
                 data: "contracts_amount",
                 type: "num",
                 // render: function(data, type, row, meta) { return data.toFixed(2) },
-                render: $.fn.dataTable.render.number( ',', '.', 2, '$' ),
+                render: $.fn.dataTable.render.number( ',', '.',0, '' ),
                 searchable: "false"
             }
         ],
@@ -227,8 +227,8 @@ function populateContracts( data ) {
             childContent +=     '</tr>';
             childContent +=     '<tr>';
             childContent +=         '<td width="50%">';
-            childContent +=             'Monto: ' + $.fn.dataTable.render.number( ',', '.', 2, '$' ).display(contract.amount) + '<br />';
-            childContent +=             'Tipo de Procedimiento: ' + contract.procedure_type;
+            childContent +=             'Hectáreas: ' + $.fn.dataTable.render.number( ',', '.', 0, '' ).display(contract.amount) + '<br />';
+            childContent +=             'Tipo de Proyecto: ' + contract.procedure_type;
             childContent +=         '</td>';
             childContent +=         '<td width="50%">';
             childContent +=             'Inicio: ' + start_date[0] + '<br />';
