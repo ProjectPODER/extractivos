@@ -16,7 +16,7 @@ media-left: false
 # Sierra de apuestas
 
 {:.main-text}
-Los proyectos de minería, energía e hidrocarburos amenazan la continuidad de la vida y la integridad del medio ambiente en la Sierra Norte de Puebla. Las comunidades indígenas, campesinas y locales se organizan para construir un modelo alternativo de desarrollo que tenga en el centro el manejo sustentable de los bosques y el cuidado del agua, el territorio y la vida.
+Los bienes naturales de la Sierra Norte de Puebla son el premio mayor. Los proyectos de minería, energía e hidrocarburos amenazan la continuidad de la vida y la integridad del medio ambiente. Las comunidades indígenas, campesinas y locales se organizan para construir un modelo alternativo de desarrollo que tenga en el centro el manejo sustentable de los bosques y el cuidado del agua, el territorio y la vida.
 
 [La apuesta extractiva](/extractivos/extractivismo-en-la-snp/)
 [Apostadores](/extractivos/dueñas-de-la-sierra/)
