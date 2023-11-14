@@ -21,6 +21,6 @@ Los proyectos de minería, energía e hidrocarburos amenazan la continuidad de l
 [La apuesta extractiva](/extractivos/extractivismo-en-la-snp/)
 [Apostadores](/extractivos/dueñas-de-la-sierra/)
 [Apuestas comunitarias](/extractivos/alternativas-comunitarias/)
-[Protegiendo la SNP](/extractivos/la-defensa-de-la-snp/)
+[Voces de la SNP](/extractivos/la-defensa-de-la-snp/)
 
 
