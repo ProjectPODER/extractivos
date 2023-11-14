@@ -13,7 +13,7 @@ media-left: false
 
 
 ---
-# LA APUESTA EXTRACTIVA
+# SIERRA DE APUESTAS
 
 {:.main-text}
 Los bienes naturales de la Sierra Norte de Puebla son el premio mayor. Los proyectos de minería, energía e hidrocarburos amenazan la continuidad de la vida y la integridad del medio ambiente. Las comunidades indígenas, campesinas y locales se organizan para construir un modelo alternativo de desarrollo que tenga en el centro el manejo sustentable de los bosques y el cuidado del agua, el territorio y la vida.
