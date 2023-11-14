@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Proyectos Extractivos en la SNP
+title: La Sierra en juego
 permalink: /proyectos-extractivos-de-la-snp/
 ---
 
-# Proyectos Extractivos en la SNP
+# La Sierra en juego. El costo de la extracción en la SNP
 
 El extractivismo es un modelo de desarrollo que explota los bienes naturales del sur global a gran escala para su exportación a los países del norte global. Genera graves afectaciones en el ambiente y el agua, promueve el despojo de tierras y el incremento de los conflictos socioambientales. Se benefician las empresas y sus países de origen, perpetuando la pobreza y la devastación en nuestros países.
 
