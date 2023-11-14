@@ -4,7 +4,7 @@ title: Mapa del despojo
 permalink: /extractivismo-en-la-snp/
 ---
 
-# Extractivismo en la SNP
+# Mapa del despojo
 
 El mapa del extractivismo en la SNP es resultado de la investigación sobre los proyectos de minería metálica y no matélica, de generación de energía e hidrocarburos activos en la región. En la Sierra Norte de Puebla se analizaron 10 proyectos extractivos activos en 2023:
 
