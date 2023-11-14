@@ -18,7 +18,7 @@ media-left: false
 {:.main-text}
 Los proyectos de minería, energía e hidrocarburos amenazan la continuidad de la vida y la integridad del medio ambiente en la Sierra Norte de Puebla. Las comunidades indígenas, campesinas y locales se organizan para construir un modelo alternativo de desarrollo que tenga en el centro el manejo sustentable de los bosques y el cuidado del agua, el territorio y la vida.
 
-[Apuestas extractivas](/extractivos/extractivismo-en-la-snp/)
+[La apuesta extractiva](/extractivos/extractivismo-en-la-snp/)
 [Apostadores](/extractivos/dueñas-de-la-sierra/)
 [Apuestas comunitarias](/extractivos/alternativas-comunitarias/)
 [Protegiendo la SNP](/extractivos/la-defensa-de-la-snp/)
