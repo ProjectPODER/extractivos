@@ -133,16 +133,15 @@ Mexican Silicates SA de CV,empresa,Feldmex SA de CV,parent
 Adolfo González Garrido,persona,Feldmex SA de CV,boardmember
 Carlos González Garrido,persona,Feldmex SA de CV,boardmember
 Simone Amico,persona,Feldmex SA de CV,boardmember
-Corporación Mexicana De Hidroelectricidad SA De CV,empresa,,
-Enel SpA,empresa,Corporación Mexicana De Hidroelectricidad SA De CV,shareholder
+Deselec 1 S de RL de CV,empresa,,
+Corporación Mexicana De Hidroelectricidad SA De CV,empresa,Deselec 1 S de RL de CV,parent
+Enel SpA,empresa,Corporación Mexicana De Hidroelectricidad SA De CV,parent
 Amundi Asset Management SAS,empresa,Enel SpA,shareholder
 BlackRock Inc.,empresa,Enel SpA,shareholder
 Capital Research & Mgmt Co.,empresa,Enel SpA,shareholder
 Ministero dell'Economia e delle Finanze,gobierno,Enel SpA,shareholder
 Norges Bank Investment Management,gobierno,Enel SpA,shareholder
 Vanguard Group Inc.,empresa,Enel SpA,shareholder
-Deselec 1 S de RL de CV,empresa,,
-Corporación Mexicana De Hidroelectricidad SA De CV,empresa,Deselec 1 S de RL de CV,parent
 Carlos Jinich Ripstein,persona,Corporación Mexicana De Hidroelectricidad SA De CV,boardmember
 Jacobo Mekler Waisburd,persona,Corporación Mexicana De Hidroelectricidad SA De CV,boardmember
 Solomón Camhaji Samra,persona,Corporación Mexicana De Hidroelectricidad SA De CV,boardmember
