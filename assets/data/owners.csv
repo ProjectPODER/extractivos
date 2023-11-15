@@ -21,8 +21,9 @@ Nicola Mary Brewer,persona,Iberdrola SA,boardmember
 Regina Helena Jorge Nunes,persona,Iberdrola SA,boardmember
 Sara De La Rica Goiricelaya,persona,Iberdrola SA,boardmember
 Xabier Sagredo Ormaza,persona,Iberdrola SA,boardmember
+Minera Gorrión SA de CV,empresa,,
 Almaden Minerals LTD,empresa,,
-Minera Gorrión SA de CV,empresa,Almaden Minerals LTD,parent
+Almaden Minerals LTD,empresa,Minera Gorrión SA de CV,parent
 AE Wealth Management LLC,empresa,Almaden Minerals LTD,shareholder
 Alfredo Phillips ,persona,Almaden Minerals LTD,shareholder
 Arbor Point Advisors LLC,empresa,Almaden Minerals LTD,shareholder
