@@ -112,8 +112,8 @@ Dimensional Fund Advisors LP,empresa,Compañía Minera Autlán SAB de CV,shareho
 Operadora de Fondos Banorte Ixe S.A. de C.V.,empresa,Compañía Minera Autlán SAB de CV,shareholder
 SEI Investments Co.,empresa,Compañía Minera Autlán SAB de CV,shareholder
 "SFM Holding, SAPI DE CV",empresa,Compañía Minera Autlán SAB de CV,shareholder
-Covia Holdings LLC,empresa,,
-Materias Primas Minerales de Ahuazotepec S de RL de CV,empresa,Covia Holdings LLC,parent
+Materias Primas Minerales de Ahuazotepec S de RL de CV,empresa,,
+Covia Holdings LLC,empresa,Materias Primas Minerales de Ahuazotepec S de RL de CV,parent
 Columbia Management Investment Advisers LLC,empresa,Covia Holdings LLC,shareholder
 Fort Washington Investment Advisors INC,empresa,Covia Holdings LLC,shareholder
 Neuberger Berman Investment Advisers LLC,empresa,Covia Holdings LLC,shareholder
@@ -135,22 +135,23 @@ Mexican Silicates SA de CV,empresa,Feldmex SA de CV,shareholder
 Adolfo González Garrido,persona,Feldmex SA de CV,boardmember
 Carlos González Garrido,persona,Feldmex SA de CV,boardmember
 Simone Amico,persona,Feldmex SA de CV,boardmember
-Enel SpA,empresa,,
-Corporación Mexicana De Hidroelectricidad SA De CV,empresa,Enel SpA,parent
+Corporación Mexicana De Hidroelectricidad SA De CV,empresa,,
+Enel SpA,empresa,Corporación Mexicana De Hidroelectricidad SA De CV,parent
 Amundi Asset Management SAS,empresa,Enel SpA,shareholder
 BlackRock Inc.,empresa,Enel SpA,shareholder
 Capital Research & Mgmt Co.,empresa,Enel SpA,shareholder
 Ministero dell'Economia e delle Finanze,gobierno,Enel SpA,shareholder
 Norges Bank Investment Management,gobierno,Enel SpA,shareholder
 Vanguard Group Inc.,empresa,Enel SpA,shareholder
-Corporación Mexicana De Hidroelectricidad SA De CV,empresa,,
-Deselec 1 S de RL de CV,empresa,Corporación Mexicana De Hidroelectricidad SA De CV,parent
+Deselec 1 S de RL de CV,empresa,,
+Corporación Mexicana De Hidroelectricidad SA De CV,empresa,Deselec 1 S de RL de CV,parent
 Carlos Jinich Ripstein,persona,Corporación Mexicana De Hidroelectricidad SA De CV,boardmember
 Jacobo Mekler Waisburd,persona,Corporación Mexicana De Hidroelectricidad SA De CV,boardmember
 Solomón Camhaji Samra,persona,Corporación Mexicana De Hidroelectricidad SA De CV,boardmember
-Gruppo Minerali Maffie SpA,empresa,,
-Ecominerali Mexicana SA de CV,empresa,Gruppo Minerali Maffie SpA,parent
-Mexican Silicates SA de CV,empresa,Gruppo Minerali Maffie SpA,parent
+Ecominerali Mexicana SA de CV,empresa,,
+Mexican Silicates SA de CV,empresa,,
+Gruppo Minerali Maffie SpA,empresa,Ecominerali Mexicana SA de CV,parent
+Gruppo Minerali Maffie SpA,empresa,Mexican Silicates SA de CV,parent
 Iniziative Minerarie SRL,empresa,Gruppo Minerali Maffie SpA,shareholder
 Pavim SRL,empresa,Gruppo Minerali Maffie SpA,shareholder
 Andrea Bettini,persona,Gruppo Minerali Maffie SpA,boardmember
@@ -162,8 +163,8 @@ Pierangelo Stangalino,persona,Gruppo Minerali Maffie SpA,boardmember
 Sabrina Bozzola,persona,Gruppo Minerali Maffie SpA,boardmember
 Stefano Tronconi,persona,Gruppo Minerali Maffie SpA,boardmember
 Vera Ramon,persona,Gruppo Minerali Maffie SpA,boardmember
-Impala SAS,empresa,,
-Neoen SA,empresa,Impala SAS,parent
+Neoen SA,empresa,,
+Impala SAS,empresa,Neoen SA,parent
 La familia Veyrat,empresa,Impala SAS,shareholder
 Aurélien Tignoles,persona,Impala SAS,boardmember
 Erick Lauro ,persona,Impala SAS,boardmember
@@ -173,8 +174,8 @@ Simon Veyrat,persona,Impala SAS,boardmember
 Stéphanie Levan,persona,Impala SAS,boardmember
 Vincent Revoles,persona,Impala SAS,boardmember
 Xavier Barbaro,persona,Impala SAS,boardmember
-Neoen SA,empresa,,
-ENR NL SA de CV,empresa,Neoen SA,parent
+ENR NL SA de CV,empresa,,
+Neoen SA,empresa,ENR NL SA de CV,parent
 Amundi Asset Management SAS,empresa,Neoen SA,shareholder
 AXA Investment Managers SA,empresa,Neoen SA,shareholder
 BlackRock Inc.,empresa,Neoen SA,shareholder
@@ -186,8 +187,8 @@ Norges Bank Investment Management,gobierno,Neoen SA,shareholder
 Schroder Investment Management Ltd.,empresa,Neoen SA,shareholder
 Vanguard Group Inc.,empresa,Neoen SA,shareholder
 Xavier Barbaro,persona,Neoen SA,shareholder
-LF del Centro SC de RL de CV,empresa,,
-Generadora Fénix SAPI de CV,empresa,LF del Centro SC de RL de CV,parent
+Generadora Fénix SAPI de CV,empresa,,
+LF del Centro SC de RL de CV,empresa,Generadora Fénix SAPI de CV,parent
 Braulio Ojeda Garcia,persona,LF del Centro SC de RL de CV,shareholder
 Carlos Armando Salas Loza,persona,LF del Centro SC de RL de CV,shareholder
 Dolores Victor Vargas Reyes,persona,LF del Centro SC de RL de CV,shareholder
@@ -213,10 +214,10 @@ Modesto Gutierrez Monasterio,persona,LF del Centro SC de RL de CV,shareholder
 Monica Jimenez Acosta,persona,LF del Centro SC de RL de CV,shareholder
 Rafael Ramirez Grijalva,persona,LF del Centro SC de RL de CV,shareholder
 Ricardo Perez Flores,persona,LF del Centro SC de RL de CV,shareholder
-Sindicato Mexicano de Electricistas,empresa,,
-Generadora Fénix SAPI de CV,empresa,Sindicato Mexicano de Electricistas,parent
-MOTA-ENGIL SGPS SA,empresa,,
-MOTA-ENGIL México SA de CV,empresa,MOTA-ENGIL SGPS SA,parent
+Generadora Fénix SAPI de CV,empresa,,
+Sindicato Mexicano de Electricistas,empresa,Generadora Fénix SAPI de CV,parent
+MOTA-ENGIL México SA de CV,empresa,,
+MOTA-ENGIL SGPS SA,empresa,MOTA-ENGIL México SA de CV,parent
 China Communications Construction Co LTD,empresa,MOTA-ENGIL SGPS SA,shareholder
 Epoch Capital Investments BV,empresa,MOTA-ENGIL SGPS SA,shareholder
 FM - Sociedade de Controlo SGPS SA,empresa,MOTA-ENGIL SGPS SA,shareholder
@@ -236,12 +237,12 @@ Paulo Sacadura Cabral Portas,persona,MOTA-ENGIL SGPS SA,boardmember
 Ping Ping,persona,MOTA-ENGIL SGPS SA,boardmember
 Sofia Salgado Cerveira Pinto,persona,MOTA-ENGIL SGPS SA,boardmember
 Xiao Di,persona,MOTA-ENGIL SGPS SA,boardmember
-MOTA-ENGIL México SA de CV,empresa,,
-Generadora Fénix SAPI de CV,empresa,MOTA-ENGIL México SA de CV,parent
+Generadora Fénix SAPI de CV,empresa,,
+MOTA-ENGIL México SA de CV,empresa,Generadora Fénix SAPI de CV,parent
 PEMEX,gobierno,,
 Gobierno de México,gobierno,PEMEX,shareholder
-Tc Energy Corporation,empresa,,
-Transportadora de Gas Natural de la Huasteca S de RL de CV,empresa,Tc Energy Corporation,parent
+Transportadora de Gas Natural de la Huasteca S de RL de CV,empresa,,
+Tc Energy Corporation,empresa,Transportadora de Gas Natural de la Huasteca S de RL de CV,parent
 Beutel Goodman & Co. Ltd.,empresa,Tc Energy Corporation,shareholder
 BMO Asset Management Corp.,empresa,Tc Energy Corporation,shareholder
 Canada Pension Plan Investment Board,gobierno,Tc Energy Corporation,shareholder
