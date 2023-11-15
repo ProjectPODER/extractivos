@@ -1,167 +1,190 @@
 NOMBRE,TIPO_ENTIDAD,RELACIONADO_CON,TIPO_RELACION
-James Duane Poliquin,persona,ALMADEN MINERALS LTD,boardmember
-Morgan James Poliquin,persona,ALMADEN MINERALS LTD,boardmember
-Douglas John McDonald,persona,ALMADEN MINERALS LTD,boardmember
-Korm Trieu,persona,ALMADEN MINERALS LTD,boardmember
-Elaine Ellingham,persona,ALMADEN MINERALS LTD,boardmember
-John Alan Thomas,persona,ALMADEN MINERALS LTD,boardmember
-AE Wealth Management LLC,empresa,ALMADEN MINERALS LTD,shareholder
-Arbor Point Advisors LLC,empresa,ALMADEN MINERALS LTD,shareholder
-Bank of America Corp,empresa,ALMADEN MINERALS LTD,shareholder
-Barclays Bank PLC,empresa,ALMADEN MINERALS LTD,shareholder
-BNP Paribas Arbitrage SNC,empresa,ALMADEN MINERALS LTD,shareholder
-Cambridge Investment Research Advisors Inc,empresa,ALMADEN MINERALS LTD,shareholder
-Capital Analysts LLC,empresa,ALMADEN MINERALS LTD,shareholder
-Cary Street Partners Investment Advisory LLC,empresa,ALMADEN MINERALS LTD,shareholder
-Cerity Partners LLC,empresa,ALMADEN MINERALS LTD,shareholder
-Citadel Advisors LLC,empresa,ALMADEN MINERALS LTD,shareholder
-Commonwealth Equity Services LLC,empresa,ALMADEN MINERALS LTD,shareholder
-Dimensional Fund Advisors LP,empresa,ALMADEN MINERALS LTD,shareholder
-Group One Trading LP,empresa,ALMADEN MINERALS LTD,shareholder
-Hamilton Capital LLC,empresa,ALMADEN MINERALS LTD,shareholder
-Kohima Pacific Gold Corp,empresa,ALMADEN MINERALS LTD,shareholder
-Konwave AG (Gold 2000),empresa,ALMADEN MINERALS LTD,shareholder
-Lincoln Financial Investments Corp,empresa,ALMADEN MINERALS LTD,shareholder
-Merrill Lynch Pierce Fenner & Smith Inc,empresa,ALMADEN MINERALS LTD,shareholder
-Millennium Management LLC,empresa,ALMADEN MINERALS LTD,shareholder
-Morgan Stanley,empresa,ALMADEN MINERALS LTD,shareholder
-Rathbones Investment Management Ltd,empresa,ALMADEN MINERALS LTD,shareholder
-RBC Dominion Securities Inc,empresa,ALMADEN MINERALS LTD,shareholder
-Renaissance Technologies LLC,empresa,ALMADEN MINERALS LTD,shareholder
-Safeguard Investment Advisory Group LLC,empresa,ALMADEN MINERALS LTD,shareholder
-Sprott Asset Management LP,empresa,ALMADEN MINERALS LTD,shareholder
-Susquehanna International Group LLP,empresa,ALMADEN MINERALS LTD,shareholder
-The Huntington Trust Company NA,empresa,ALMADEN MINERALS LTD,shareholder
-Total Wealth Planning LLC,empresa,ALMADEN MINERALS LTD,shareholder
-Two Sigma Securities LLC,empresa,ALMADEN MINERALS LTD,shareholder
-UBS Asset Management AG,empresa,ALMADEN MINERALS LTD,shareholder
-Alfredo Phillips,persona,ALMADEN MINERALS LTD,shareholder
-Douglas John McDonald,persona,ALMADEN MINERALS LTD,shareholder
-Elaine Ellingham,persona,ALMADEN MINERALS LTD,shareholder
-James Duane Poliquin,persona,ALMADEN MINERALS LTD,shareholder
-Kevin O&Kane ,persona,ALMADEN MINERALS LTD,shareholder
-Korm Trieu,persona,ALMADEN MINERALS LTD,shareholder
-Morgan James Poliquin,persona,ALMADEN MINERALS LTD,shareholder
-Ria Fitzgerald ,persona,ALMADEN MINERALS LTD,shareholder
-James Duane Poliquin,persona,Almadex Minerals Ltd.,boardmember
-Darcy Edward Marud,persona,Almadex Minerals Ltd.,boardmember
-Douglas John McDonald,persona,Almadex Minerals Ltd.,boardmember
-Tracey Meintjes,persona,Almadex Minerals Ltd.,boardmember
-Morgan James Poliquin,persona,Almadex Minerals Ltd.,boardmember
-"Lawrence '"Larry"' Segerstrom",persona,Almadex Minerals Ltd.,boardmember
-Euro Pacific Asset Management LLC,empresa,Almadex Minerals Ltd.,shareholder
-Konwave AG (Gold 2000),empresa,Almadex Minerals Ltd.,shareholder
-Douglas John McDonald,persona,Almadex Minerals Ltd.,shareholder
-James Duane Poliquin,persona,Almadex Minerals Ltd.,shareholder
-Korm Trieu,persona,Almadex Minerals Ltd.,shareholder
-Lawrence Segerstrom,persona,Almadex Minerals Ltd.,shareholder
-Morgan James Poliquin,persona,Almadex Minerals Ltd.,shareholder
-Antonio Elosúa González,persona,AUTLÁN HOLDING SAPI DE CV,boardmember
-Dionisio Garza Medina Sarda,persona,AUTLÁN HOLDING SAPI DE CV,boardmember
-Everardo Elizondo,persona,AUTLÁN HOLDING SAPI DE CV,boardmember
-Fernando de Jesús Canales Clariond,persona,AUTLÁN HOLDING SAPI DE CV,boardmember
-Francisco Javier Garza Zambrano,persona,AUTLÁN HOLDING SAPI DE CV,boardmember
-José Antonio Rivero González Jr,persona,AUTLÁN HOLDING SAPI DE CV,boardmember
-José Antonio Rivero Larrea,persona,AUTLÁN HOLDING SAPI DE CV,boardmember
-Kevin O&Kane,persona,AUTLÁN HOLDING SAPI DE CV,boardmember
-María Guadalupe González,persona,AUTLÁN HOLDING SAPI DE CV,boardmember
-María Rivero González,persona,AUTLÁN HOLDING SAPI DE CV,boardmember
-Oscar Maldonado Charles,persona,AUTLÁN HOLDING SAPI DE CV,boardmember
-Pedro Alberto Reynoso Jr,persona,AUTLÁN HOLDING SAPI DE CV,boardmember
-Pedro Rivero Gonzalez,persona,AUTLÁN HOLDING SAPI DE CV,boardmember
-Ricardo Sada Villarreal,persona,AUTLÁN HOLDING SAPI DE CV,boardmember
-Fideicomiso de la Familia Rivero González,empresa,AUTLÁN HOLDING SAPI DE CV,shareholder
-AUTLÁN HOLDING SAPI DE CV,empresa,COMPAÑIA MINERA AUTLÁN SAB DE CV,parent
-Acadian Asset Management LLC,empresa,COMPAÑIA MINERA AUTLÁN SAB DE CV,shareholder
-Dimensional Fund Advisors LP,empresa,COMPAÑIA MINERA AUTLÁN SAB DE CV,shareholder
-Operadora de Fondos Banorte Ixe S.A. de C.V.,empresa,COMPAÑIA MINERA AUTLÁN SAB DE CV,shareholder
-SEI Investments Co.,empresa,COMPAÑIA MINERA AUTLÁN SAB DE CV,shareholder
-"SFM Holding, S.A.P.I. DE C.V",empresa,COMPAÑIA MINERA AUTLÁN SAB DE CV,shareholder
-AUTLÁN HOLDING SAPI DE CV,empresa,COMPAÑIA RECUPERADORA DE ESCORIAS SA DE CV,parent
-Carlos Jinich Ripstein,persona,"Corporación Mexicana De Hidroelectricidad, S.A. De C.V.",boardmember
-Jacobo Mekler Waisburd,persona,"Corporación Mexicana De Hidroelectricidad, S.A. De C.V.",boardmember
-Solomón Camhaji Samra,persona,"Corporación Mexicana De Hidroelectricidad, S.A. De C.V.",boardmember
-Enel SpA,empresa,"Corporación Mexicana De Hidroelectricidad, S.A. De C.V.",parent
-Andrew Eich ,persona,COVIA HOLDINGS LLC,boardmember
-J Donald Sheets ,persona,COVIA HOLDINGS LLC,boardmember
-Paul Gordon ,persona,COVIA HOLDINGS LLC,boardmember
-Phil Barkhorn ,persona,COVIA HOLDINGS LLC,boardmember
-Robert Kirby ,persona,COVIA HOLDINGS LLC,boardmember
-Shawn Williams,persona,COVIA HOLDINGS LLC,boardmember
-William Wang ,persona,COVIA HOLDINGS LLC,boardmember
-COLUMBIA MANAGEMENT INVESTMENT ADVISERS LLC,empresa,COVIA HOLDINGS LLC,shareholder
-FORT WASHINGTON INVESTMENT ADVISORS INC,empresa,COVIA HOLDINGS LLC,shareholder
-NEUBERGER BERMAN INVESTMENT ADVISERS LLC,empresa,COVIA HOLDINGS LLC,shareholder
-NEWFLEET ASSET MANAGEMENT LLC,empresa,COVIA HOLDINGS LLC,shareholder
-SABA CAPITAL MANAGEMENT LP,empresa,COVIA HOLDINGS LLC,shareholder
-VOYA INVESTMENT MANAGEMENT LLC,empresa,COVIA HOLDINGS LLC,shareholder
-"Corporación Mexicana De Hidroelectricidad, S.A. De C.V.",empresa,DESELEC 1 S DE RL DE CV,parent
-GRUPPO MINERALI MAFFIE SPA,empresa,ECOMINERALI MEXICANA SA DE CV,parent
+Iberdrola Renovables Norte SA de CV,empresa,,
+Iberdrola SA,empresa,Iberdrola Renovables Norte SA de CV,parent
+Amundi Asset Management SAS,empresa,Iberdrola SA,shareholder
+BlackRock Inc,empresa,Iberdrola SA,shareholder
+José Ignacio Sánchez Galán ,persona,Iberdrola SA,shareholder
+Massachusetts Financial Services Company,empresa,Iberdrola SA,shareholder
+Norges Bank Investment Management,empresa,Iberdrola SA,shareholder
+Qatar Holding LLC,empresa,Iberdrola SA,shareholder
+Vanguard Group Inc,empresa,Iberdrola SA,shareholder
+Ignacio Sanchez Galan,persona,Iberdrola SA,boardmember
+Anthony Luzzato Gardner,persona,Iberdrola SA,boardmember
+Armando Martínez Martínez,persona,Iberdrola SA,boardmember
+Minera Gorrión SA de CV,empresa,,
+Almaden Minerals LTD,empresa,Minera Gorrión SA de CV,parent
+AE Wealth Management LLC,empresa,Almaden Minerals LTD,shareholder
+Alfredo Phillips ,persona,Almaden Minerals LTD,shareholder
+Arbor Point Advisors LLC,empresa,Almaden Minerals LTD,shareholder
+Bank of America Corp,empresa,Almaden Minerals LTD,shareholder
+Barclays Bank PLC,empresa,Almaden Minerals LTD,shareholder
+BNP Paribas Arbitrage SNC,empresa,Almaden Minerals LTD,shareholder
+Cambridge Investment Research Advisors Inc,empresa,Almaden Minerals LTD,shareholder
+Capital Analysts LLC,empresa,Almaden Minerals LTD,shareholder
+Cary Street Partners Investment Advisory LLC,empresa,Almaden Minerals LTD,shareholder
+Cerity Partners LLC,empresa,Almaden Minerals LTD,shareholder
+Citadel Advisors LLC,empresa,Almaden Minerals LTD,shareholder
+Commonwealth Equity Services LLC,empresa,Almaden Minerals LTD,shareholder
+Dimensional Fund Advisors LP,empresa,Almaden Minerals LTD,shareholder
+Douglas John McDonald,persona,Almaden Minerals LTD,shareholder
+Elaine Ellingham,persona,Almaden Minerals LTD,shareholder
+Group One Trading LP,empresa,Almaden Minerals LTD,shareholder
+Hamilton Capital LLC,empresa,Almaden Minerals LTD,shareholder
+James Duane Poliquin,persona,Almaden Minerals LTD,shareholder
+Kevin O&Kane ,persona,Almaden Minerals LTD,shareholder
+Kohima Pacific Gold Corp,empresa,Almaden Minerals LTD,shareholder
+Konwave AG (Gold 2000),empresa,Almaden Minerals LTD,shareholder
+Korm Trieu,persona,Almaden Minerals LTD,shareholder
+Lincoln Financial Investments Corp,empresa,Almaden Minerals LTD,shareholder
+Merrill Lynch Pierce Fenner & Smith Inc,empresa,Almaden Minerals LTD,shareholder
+Millennium Management LLC,empresa,Almaden Minerals LTD,shareholder
+Morgan James Poliquin,persona,Almaden Minerals LTD,shareholder
+Morgan Stanley,empresa,Almaden Minerals LTD,shareholder
+Rathbones Investment Management Ltd,empresa,Almaden Minerals LTD,shareholder
+RBC Dominion Securities Inc,empresa,Almaden Minerals LTD,shareholder
+Renaissance Technologies LLC,empresa,Almaden Minerals LTD,shareholder
+Ria Fitzgerald ,persona,Almaden Minerals LTD,shareholder
+Safeguard Investment Advisory Group LLC,empresa,Almaden Minerals LTD,shareholder
+Sprott Asset Management LP,empresa,Almaden Minerals LTD,shareholder
+Susquehanna International Group LLP,empresa,Almaden Minerals LTD,shareholder
+The Huntington Trust Company NA,empresa,Almaden Minerals LTD,shareholder
+Total Wealth Planning LLC,empresa,Almaden Minerals LTD,shareholder
+Two Sigma Securities LLC,empresa,Almaden Minerals LTD,shareholder
+UBS Asset Management AG,empresa,Almaden Minerals LTD,shareholder
+Douglas John McDonald,persona,Almaden Minerals LTD,boardmember
+Elaine Ellingham,persona,Almaden Minerals LTD,boardmember
+James Duane Poliquin,persona,Almaden Minerals LTD,boardmember
+John Alan Thomas,persona,Almaden Minerals LTD,boardmember
+Korm Trieu,persona,Almaden Minerals LTD,boardmember
+Morgan James Poliquin,persona,Almaden Minerals LTD,boardmember
+Minera Gavilán SA de CV,empresa,,
+Almadex Minerals LTD,empresa,Minera Gavilán SA de CV,parent
+Douglas John McDonald,persona,Almadex Minerals LTD,shareholder
+Euro Pacific Asset Management LLC,empresa,Almadex Minerals LTD,shareholder
+James Duane Poliquin,persona,Almadex Minerals LTD,shareholder
+Konwave AG (Gold 2000),empresa,Almadex Minerals LTD,shareholder
+Korm Trieu,persona,Almadex Minerals LTD,shareholder
+Lawrence Segerstrom,persona,Almadex Minerals LTD,shareholder
+Morgan James Poliquin,persona,Almadex Minerals LTD,shareholder
+Darcy Edward Marud,persona,Almadex Minerals LTD,boardmember
+Douglas John McDonald,persona,Almadex Minerals LTD,boardmember
+James Duane Poliquin,persona,Almadex Minerals LTD,boardmember
+"Lawrence ""Larry"" Segerstrom",persona,Almadex Minerals LTD,boardmember
+Morgan James Poliquin,persona,Almadex Minerals LTD,boardmember
+Tracey Meintjes,persona,Almadex Minerals LTD,boardmember
+Compañía Minera Autlán SAB de CV,empresa,,
+Compañía Recuperadora de Escorias SA de CV,empresa,,
+Grupo Ferrominero SA de CV,empresa,,
+Minas de Santa Martha SA,empresa,,
+Autlán Holding SAPI de CV,empresa,Compañía Minera Autlán SAB de CV,parent
+Autlán Holding SAPI de CV,empresa,Compañía Recuperadora de Escorias SA de CV,parent
+Autlán Holding SAPI de CV,empresa,Grupo Ferrominero SA de CV,parent
+Autlán Holding SAPI de CV,empresa,Minas de Santa Martha SA,parent
+Fideicomiso de la Familia Rivero González,empresa,Autlán Holding SAPI de CV,shareholder
+José Antonio Rivero González Jr,persona,Autlán Holding SAPI de CV,boardmember
+José Antonio Rivero Larrea,persona,Autlán Holding SAPI de CV,boardmember
+Kevin O&Kane,persona,Autlán Holding SAPI de CV,boardmember
+María Guadalupe González,persona,Autlán Holding SAPI de CV,boardmember
+María Rivero González,persona,Autlán Holding SAPI de CV,boardmember
+Pedro Rivero González,persona,Autlán Holding SAPI de CV,boardmember
+Acadian Asset Management LLC,empresa,Compañía Minera Autlán SAB de CV,shareholder
+Dimensional Fund Advisors LP,empresa,Compañía Minera Autlán SAB de CV,shareholder
+Operadora de Fondos Banorte Ixe S.A. de C.V.,empresa,Compañía Minera Autlán SAB de CV,shareholder
+SEI Investments Co.,empresa,Compañía Minera Autlán SAB de CV,shareholder
+"SFM Holding, SAPI DE CV",empresa,Compañía Minera Autlán SAB de CV,shareholder
+Materias Primas Minerales de Ahuazotepec S de RL de CV,empresa,,
+Covia Holdings LLC,empresa,Materias Primas Minerales de Ahuazotepec S de RL de CV,parent
+Columbia Management Investment Advisers LLC,empresa,Covia Holdings LLC,shareholder
+Fort Washington Investment Advisors INC,empresa,Covia Holdings LLC,shareholder
+Neuberger Berman Investment Advisers LLC,empresa,Covia Holdings LLC,shareholder
+Newfleet Asset Management LLC,empresa,Covia Holdings LLC,shareholder
+Saba Capital Management LP,empresa,Covia Holdings LLC,shareholder
+Voya Investment Management LLC,empresa,Covia Holdings LLC,shareholder
+Shawn Williams,persona,Covia Holdings LLC,boardmember
+Feldmex SA de CV,empresa,,
+Adolfo González Garrido,persona,Feldmex SA de CV,shareholder
+José Vicente Etelberto González Cazares,persona,Feldmex SA de CV,shareholder
+Ludivina Orta Torres,persona,Feldmex SA de CV,shareholder
+Mexican Silicates SA de CV,empresa,Feldmex SA de CV,parent
+Gruppo Minerali Maffie SpA,empresa,Mexican Silicates SA de CV,parent
+Ecominerali Mexicana SA de CV,empresa,,
+Gruppo Minerali Maffie SpA,empresa,Ecominerali Mexicana SA de CV,parent
+Iniziative Minerarie SRL,empresa,Gruppo Minerali Maffie SpA,shareholder
+Pavim SRL,empresa,Gruppo Minerali Maffie SpA,shareholder
+Andrea Bettini,persona,Gruppo Minerali Maffie SpA,boardmember
+Giuliano Colavito,persona,Gruppo Minerali Maffie SpA,boardmember
+Marco Bargioni,persona,Gruppo Minerali Maffie SpA,boardmember
+Paolo Danasino,persona,Gruppo Minerali Maffie SpA,boardmember
+Pier Camillo Baù,persona,Gruppo Minerali Maffie SpA,boardmember
+Pierangelo Stangalino,persona,Gruppo Minerali Maffie SpA,boardmember
+Sabrina Bozzola,persona,Gruppo Minerali Maffie SpA,boardmember
+Stefano Tronconi,persona,Gruppo Minerali Maffie SpA,boardmember
+Vera Ramon,persona,Gruppo Minerali Maffie SpA,boardmember
+Deselec 1 S de RL de CV,empresa,,
+Corporación Mexicana De Hidroelectricidad SA De CV,empresa,Deselec 1 S de RL de CV,parent
+Enel SpA,empresa,Corporación Mexicana De Hidroelectricidad SA De CV,parent
 Amundi Asset Management SAS,empresa,Enel SpA,shareholder
 BlackRock Inc.,empresa,Enel SpA,shareholder
 Capital Research & Mgmt Co.,empresa,Enel SpA,shareholder
-Vanguard Group Inc.,empresa,Enel SpA,shareholder
 Ministero dell'Economia e delle Finanze,gobierno,Enel SpA,shareholder
 Norges Bank Investment Management,gobierno,Enel SpA,shareholder
-NEOEN SA,empresa,ENR NL SA DE CV,parent
-Adolfo González Garrido,persona,FELDMEX SA DE CV,boardmember
-Carlos González Garrido,persona,FELDMEX SA DE CV,boardmember
-Simone Amico,persona,FELDMEX SA DE CV,boardmember
-MEXICAN SILICATES SA DE CV,empresa,FELDMEX SA DE CV,shareholder
-Adolfo González Garrido,persona,FELDMEX SA DE CV,shareholder
-José Vicente Etelberto González Cazares,persona,FELDMEX SA DE CV,shareholder
-Ludivina Orta Torres,persona,FELDMEX SA DE CV,shareholder
-MOTA-ENGIL MÉXICO SA DE CV,empresa,GENERADORA FÉNIX SAPI DE CV,parent
-SINDICATO MEXICANO DE ELECTRICISTAS,empresa,GENERADORA FÉNIX SAPI DE CV,parent
-PEMEX,gobierno,Gobierno de México,shareholder
-AUTLÁN HOLDING SAPI DE CV,empresa,GRUPO FERROMINERO SA DE CV,parent
-Andrea Bettini,persona,GRUPPO MINERALI MAFFIE SPA,boardmember
-Giuliano Colavito,persona,GRUPPO MINERALI MAFFIE SPA,boardmember
-Marco Bargioni,persona,GRUPPO MINERALI MAFFIE SPA,boardmember
-Paolo Danasino,persona,GRUPPO MINERALI MAFFIE SPA,boardmember
-Pier Camillo Baù,persona,GRUPPO MINERALI MAFFIE SPA,boardmember
-Pierangelo Stangalino,persona,GRUPPO MINERALI MAFFIE SPA,boardmember
-Sabrina Bozzola,persona,GRUPPO MINERALI MAFFIE SPA,boardmember
-Stefano Tronconi,persona,GRUPPO MINERALI MAFFIE SPA,boardmember
-Vera Ramon,persona,GRUPPO MINERALI MAFFIE SPA,boardmember
-INIZIATIVE MINERARIE SRL,empresa,GRUPPO MINERALI MAFFIE SPA,shareholder
-PAVIM SRL,empresa,GRUPPO MINERALI MAFFIE SPA,shareholder
-IBERDROLA SA,empresa,IBERDROLA RENOVABLES NORTE SA DE CV,parent
-Angel Jesus Acebes Paniagua,persona,IBERDROLA SA,boardmember
-Anthony Luzzato Gardner,persona,IBERDROLA SA,boardmember
-Armando Martínez Martínez,persona,IBERDROLA SA,boardmember
-Iñigo Víctor de Oriol Ibarra,persona,IBERDROLA SA,boardmember
-Isabel García Tejerina,persona,IBERDROLA SA,boardmember
-Juan Manuel González Serna,persona,IBERDROLA SA,boardmember
-Manuel Moreu Munaiz,persona,IBERDROLA SA,boardmember
-Maria Angeles Alcalá Díaz,persona,IBERDROLA SA,boardmember
-Maria Helena Antolin Raybaud,persona,IBERDROLA SA,boardmember
-Nicola Mary Brewer,persona,IBERDROLA SA,boardmember
-Regina Helena Jorge Nunes,persona,IBERDROLA SA,boardmember
-Sara De La Rica Goiricelaya,persona,IBERDROLA SA,boardmember
-Xabier Sagredo Ormaza,persona,IBERDROLA SA,boardmember
-Amundi Asset Management SAS,empresa,IBERDROLA SA,shareholder
-BlackRock Inc.,empresa,IBERDROLA SA,shareholder
-Massachusetts Financial Services Company,empresa,IBERDROLA SA,shareholder
-Norges Bank Investment Management,empresa,IBERDROLA SA,shareholder
-QATAR HOLDING LLC,empresa,IBERDROLA SA,shareholder
-Vanguard Group Inc.,empresa,IBERDROLA SA,shareholder
-José Ignacio Sánchez Galán ,persona,IBERDROLA SA,shareholder
-Aurélien Tignoles,persona,IMPALA SAS,boardmember
-Erick Lauro ,persona,IMPALA SAS,boardmember
-Fabrice Dumonteil,persona,IMPALA SAS,boardmember
-Jaques Veyrat,persona,IMPALA SAS,boardmember
-Simon Veyrat,persona,IMPALA SAS,boardmember
-Stéphanie Levan,persona,IMPALA SAS,boardmember
-Vincent Revoles,persona,IMPALA SAS,boardmember
-Xavier Barbaro,persona,IMPALA SAS,boardmember
-La familia Veyrat,empresa,IMPALA SAS,shareholder
-COVIA HOLDINGS LLC,empresa,MATERIAS PRIMAS MINERALES DE AHUAZOTEPEC S DE RL DE CV,parent
-GRUPPO MINERALI MAFFIE SPA,empresa,MEXICAN SILICATES SA DE CV,parent
-AUTLÁN HOLDING SAPI DE CV,empresa,MINAS DE SANTA MARTHA SA,parent
-Almadex Minerals Ltd.,empresa,MINERA GAVILAN SA DE CV,parent
-ALMADEN MINERALS LTD,empresa,MINERA GORRION SA DE CV,parent
-MOTA-ENGIL SGPS SA,empresa,MOTA-ENGIL MÉXICO SA DE CV,parent
+Vanguard Group Inc.,empresa,Enel SpA,shareholder
+Carlos Jinich Ripstein,persona,Corporación Mexicana De Hidroelectricidad SA De CV,boardmember
+Jacobo Mekler Waisburd,persona,Corporación Mexicana De Hidroelectricidad SA De CV,boardmember
+Solomón Camhaji Samra,persona,Corporación Mexicana De Hidroelectricidad SA De CV,boardmember
+Neoen SA,empresa,,
+Impala SAS,empresa,Neoen SA,parent
+La familia Veyrat,empresa,Impala SAS,shareholder
+Fabrice Dumonteil,persona,Impala SAS,boardmember
+Jaques Veyrat,persona,Impala SAS,boardmember
+Simon Veyrat,persona,Impala SAS,boardmember
+Stéphanie Levan,persona,Impala SAS,boardmember
+ENR NL SA de CV,empresa,,
+Neoen SA,empresa,ENR NL SA de CV,parent
+Amundi Asset Management SAS,empresa,Neoen SA,shareholder
+AXA Investment Managers SA,empresa,Neoen SA,shareholder
+BlackRock Inc.,empresa,Neoen SA,shareholder
+Bpifrance Participations SA,empresa,Neoen SA,shareholder
+CITIGROUP INC,empresa,Neoen SA,shareholder
+Financiere de l'Echiquier,empresa,Neoen SA,shareholder
+Fonds Stratégique de Participation (FSP) Compartiment,empresa,Neoen SA,shareholder
+Norges Bank Investment Management,gobierno,Neoen SA,shareholder
+Schroder Investment Management Ltd.,empresa,Neoen SA,shareholder
+Vanguard Group Inc.,empresa,Neoen SA,shareholder
+Xavier Barbaro,persona,Neoen SA,shareholder
+Generadora Fénix SAPI de CV,empresa,,
+LF del Centro SC de RL de CV,empresa,Generadora Fénix SAPI de CV,parent
+Sindicato Mexicano de Electricistas,empresa,Generadora Fénix SAPI de CV,parent
+MOTA-ENGIL México SA de CV,empresa,Generadora Fénix SAPI de CV,parent
+MOTA-ENGIL SGPS SA,empresa,MOTA-ENGIL México SA de CV,parent
+Braulio Ojeda Garcia,persona,LF del Centro SC de RL de CV,shareholder
+Carlos Armando Salas Loza,persona,LF del Centro SC de RL de CV,shareholder
+Dolores Victor Vargas Reyes,persona,LF del Centro SC de RL de CV,shareholder
+Eduardo Bobadilla Zarza,persona,LF del Centro SC de RL de CV,shareholder
+Elliot Oseguera Valencia,persona,LF del Centro SC de RL de CV,shareholder
+Fernando Amezcua Castillo,persona,LF del Centro SC de RL de CV,shareholder
+Gerardo Avelar Flores,persona,LF del Centro SC de RL de CV,shareholder
+Guillermo Cruz Campos,persona,LF del Centro SC de RL de CV,shareholder
+Hector Cortes Hernandez,persona,LF del Centro SC de RL de CV,shareholder
+Hugo Alvarez Piña,persona,LF del Centro SC de RL de CV,shareholder
+Hugo Vega Quijano,persona,LF del Centro SC de RL de CV,shareholder
+Hugo Alberto Ortega Comezaña,persona,LF del Centro SC de RL de CV,shareholder
+Humbert  Medrano  Morales,persona,LF del Centro SC de RL de CV,shareholder
+Israel Gerardo Nuñez Delgadillo,persona,LF del Centro SC de RL de CV,shareholder
+Jorge Eulises  Uribe Gaona,persona,LF del Centro SC de RL de CV,shareholder
+Jose Fernando Muñoz Ponce,persona,LF del Centro SC de RL de CV,shareholder
+Jose Humberto Montes De Oca Luna,persona,LF del Centro SC de RL de CV,shareholder
+Juan Jose Gomez Beristain,persona,LF del Centro SC de RL de CV,shareholder
+Juan Luis Gonzalez Vargas,persona,LF del Centro SC de RL de CV,shareholder
+Martin Esparza Flores,persona,LF del Centro SC de RL de CV,shareholder
+Miguel Marquez Rios,persona,LF del Centro SC de RL de CV,shareholder
+Modesto Gutierrez Monasterio,persona,LF del Centro SC de RL de CV,shareholder
+Monica Jimenez Acosta,persona,LF del Centro SC de RL de CV,shareholder
+Rafael Ramirez Grijalva,persona,LF del Centro SC de RL de CV,shareholder
+Ricardo Perez Flores,persona,LF del Centro SC de RL de CV,shareholder
+China Communications Construction Co LTD,empresa,MOTA-ENGIL SGPS SA,shareholder
+Epoch Capital Investments BV,empresa,MOTA-ENGIL SGPS SA,shareholder
+FM - Sociedade de Controlo SGPS SA,empresa,MOTA-ENGIL SGPS SA,shareholder
 Ana Paula Chaves e Sá Ribeiro,persona,MOTA-ENGIL SGPS SA,boardmember
 António Manuel Queirós Vasconcelos da Mota,persona,MOTA-ENGIL SGPS SA,boardmember
 Carlos António Vasconcelos Mota dos Santos,persona,MOTA-ENGIL SGPS SA,boardmember
@@ -178,71 +201,36 @@ Paulo Sacadura Cabral Portas,persona,MOTA-ENGIL SGPS SA,boardmember
 Ping Ping,persona,MOTA-ENGIL SGPS SA,boardmember
 Sofia Salgado Cerveira Pinto,persona,MOTA-ENGIL SGPS SA,boardmember
 Xiao Di,persona,MOTA-ENGIL SGPS SA,boardmember
-CHINA COMMUNICATIONS CONSTRUCTION CO LTD,empresa,MOTA-ENGIL SGPS SA,shareholder
-Epoch Capital Investments BV,empresa,MOTA-ENGIL SGPS SA,shareholder
-"FM - Sociedade de Controlo, SGPS, S.A.",empresa,MOTA-ENGIL SGPS SA,shareholder
-IMPALA SAS,empresa,NEOEN SA,parent
-Amundi Asset Management SAS,empresa,NEOEN SA,shareholder
-AXA Investment Managers SA,empresa,NEOEN SA,shareholder
-BlackRock Inc.,empresa,NEOEN SA,shareholder
-Bpifrance Participations SA,empresa,NEOEN SA,shareholder
-CITIGROUP INC,empresa,NEOEN SA,shareholder
-Financiere de l'Echiquier,empresa,NEOEN SA,shareholder
-Fonds Stratégique de Participation (FSP) Compartiment,empresa,NEOEN SA,shareholder
-Schroder Investment Management Ltd.,empresa,NEOEN SA,shareholder
-Vanguard Group Inc.,empresa,NEOEN SA,shareholder
-Norges Bank Investment Management,gobierno,NEOEN SA,shareholder
-Xavier Barbaro,persona,NEOEN SA,shareholder
-Cheryl F Campbell,persona,TC ENERGY CORPORATION,boardmember
-David B MacNaughton,persona,TC ENERGY CORPORATION,boardmember
-Dheeraj Verma,persona,TC ENERGY CORPORATION,boardmember
-Francois Lionel Poirier,persona,TC ENERGY CORPORATION,boardmember
-Indira Vasanti Samarasekera,persona,TC ENERGY CORPORATION,boardmember
-John E Lowe,persona,TC ENERGY CORPORATION,boardmember
-Mary Pat Salomone,persona,TC ENERGY CORPORATION,boardmember
-Michael Robert Culbert,persona,TC ENERGY CORPORATION,boardmember
-Siim Alden Vanaselja,persona,TC ENERGY CORPORATION,boardmember
-Susan C Jones,persona,TC ENERGY CORPORATION,boardmember
-Thierry Vandal,persona,TC ENERGY CORPORATION,boardmember
-Una M Power ,persona,TC ENERGY CORPORATION,boardmember
-William Dean Johnson,persona,TC ENERGY CORPORATION,boardmember
-Beutel Goodman & Co. Ltd.,empresa,TC ENERGY CORPORATION,shareholder
-BMO Asset Management Corp.,empresa,TC ENERGY CORPORATION,shareholder
-Canadian Imperial Bank of Commerce,empresa,TC ENERGY CORPORATION,shareholder
-Capital Research & Mgmt Co.,empresa,TC ENERGY CORPORATION,shareholder
-Deutsche Asset & Wealth Management,empresa,TC ENERGY CORPORATION,shareholder
-Dodge & Cox,empresa,TC ENERGY CORPORATION,shareholder
-DWS Investment GmbH,empresa,TC ENERGY CORPORATION,shareholder
-Fidelity International Ltd.,empresa,TC ENERGY CORPORATION,shareholder
-Jarislowsky Fraser Ltd.,empresa,TC ENERGY CORPORATION,shareholder
-Mackenzie Financial Corp.,empresa,TC ENERGY CORPORATION,shareholder
-Merrill Lynch Pierce Fenner & Smith Inc.,empresa,TC ENERGY CORPORATION,shareholder
-Murchinson Ltd.,empresa,TC ENERGY CORPORATION,shareholder
-National Bank Investments Inc.,empresa,TC ENERGY CORPORATION,shareholder
-RBC Dominion Securities Inc.,empresa,TC ENERGY CORPORATION,shareholder
-RBC Global Asset Management Inc.,empresa,TC ENERGY CORPORATION,shareholder
-Royal Bank of Canada,empresa,TC ENERGY CORPORATION,shareholder
-Scotia Asset Management LP,empresa,TC ENERGY CORPORATION,shareholder
-T. Rowe Price Group Inc.,empresa,TC ENERGY CORPORATION,shareholder
-TD Asset Management Inc.,empresa,TC ENERGY CORPORATION,shareholder
-The Bank of Nova Scotia,empresa,TC ENERGY CORPORATION,shareholder
-The Toronto-Dominion Bank,empresa,TC ENERGY CORPORATION,shareholder
-Vanguard Group Inc.,empresa,TC ENERGY CORPORATION,shareholder
-Wellington Management Group LLP,empresa,TC ENERGY CORPORATION,shareholder
-Canada Pension Plan Investment Board,gobierno,TC ENERGY CORPORATION,shareholder
-Healthcare of Ontario Pension Plan,gobierno,TC ENERGY CORPORATION,shareholder
-Norges Bank Investment Management,gobierno,TC ENERGY CORPORATION,shareholder
-TC ENERGY CORPORATION,empresa,TRANSPORTADORA DE GAS NATURAL DE LA HUASTECA S DE RL DE CV,parent
-ALMADEN MINERALS LTD,empresa,,
-Almadex Minerals Ltd.,empresa,,
-AUTLÁN HOLDING SAPI DE CV,empresa,,
-COVIA HOLDINGS LLC,empresa,,
-Enel SpA,empresa,,
-FELDMEX SA DE CV,empresa,,
-GRUPPO MINERALI MAFFIE SPA,empresa,,
-IBERDROLA SA,empresa,,
-IMPALA SAS,empresa,,
-MOTA-ENGIL SGPS SA,empresa,,
-SINDICATO MEXICANO DE ELECTRICISTAS,empresa,,
-TC ENERGY CORPORATION,empresa,,
 PEMEX,gobierno,,
+Gobierno de México,gobierno,PEMEX,shareholder
+Transportadora de Gas Natural de la Huasteca S de RL de CV,empresa,,
+Tc Energy Corporation,empresa,Transportadora de Gas Natural de la Huasteca S de RL de CV,parent
+Beutel Goodman & Co. Ltd.,empresa,Tc Energy Corporation,shareholder
+BMO Asset Management Corp.,empresa,Tc Energy Corporation,shareholder
+Canada Pension Plan Investment Board,gobierno,Tc Energy Corporation,shareholder
+Canadian Imperial Bank of Commerce,empresa,Tc Energy Corporation,shareholder
+Capital Research & Mgmt Co.,empresa,Tc Energy Corporation,shareholder
+Deutsche Asset & Wealth Management,empresa,Tc Energy Corporation,shareholder
+Dodge & Cox,empresa,Tc Energy Corporation,shareholder
+DWS Investment GmbH,empresa,Tc Energy Corporation,shareholder
+Fidelity International Ltd.,empresa,Tc Energy Corporation,shareholder
+Healthcare of Ontario Pension Plan,gobierno,Tc Energy Corporation,shareholder
+Jarislowsky Fraser Ltd.,empresa,Tc Energy Corporation,shareholder
+Mackenzie Financial Corp.,empresa,Tc Energy Corporation,shareholder
+Merrill Lynch Pierce Fenner & Smith Inc.,empresa,Tc Energy Corporation,shareholder
+Murchinson Ltd.,empresa,Tc Energy Corporation,shareholder
+National Bank Investments Inc.,empresa,Tc Energy Corporation,shareholder
+Norges Bank Investment Management,gobierno,Tc Energy Corporation,shareholder
+RBC Dominion Securities Inc.,empresa,Tc Energy Corporation,shareholder
+RBC Global Asset Management Inc.,empresa,Tc Energy Corporation,shareholder
+Royal Bank of Canada,empresa,Tc Energy Corporation,shareholder
+Scotia Asset Management LP,empresa,Tc Energy Corporation,shareholder
+T. Rowe Price Group Inc.,empresa,Tc Energy Corporation,shareholder
+TD Asset Management Inc.,empresa,Tc Energy Corporation,shareholder
+The Bank of Nova Scotia,empresa,Tc Energy Corporation,shareholder
+The Toronto-Dominion Bank,empresa,Tc Energy Corporation,shareholder
+Vanguard Group Inc.,empresa,Tc Energy Corporation,shareholder
+Wellington Management Group LLP,empresa,Tc Energy Corporation,shareholder
+Cheryl F Campbell,persona,Tc Energy Corporation,boardmember
+Michael Robert Culbert,persona,Tc Energy Corporation,boardmember
+Siim Alden Vanaselja,persona,Tc Energy Corporation,boardmember

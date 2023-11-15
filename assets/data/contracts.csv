@@ -1,76 +1,75 @@
 OCID,CONTRACT_TITLE,PROCUREMENT_METHOD,BUYER_NAME,SUPPLIER_NAMES,CONTRACT_START_DATE,CONTRACT_END_DATE,CONTRACT_AMOUNT,CONTRACT_CURRENCY,TIPO DE CONTRATO
-1,"EL DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO, INSTALACIÓN, OPERACIÓN Y MANTENIMIENTO DEL GASODUCTO TUXPAN-TULA",MINERÍA METÁLICA,COMISIÓN REGULADORA DE ENERGÍA,TRANSPORTADORA DE GAS NATURAL DE LA HUASTECA S DE RL DE CV,16/02/2017,16/02/2047,1,Hectáreas,Permiso
-2,222009 TEZIUTLÁN 2001,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,27/04/2004,26/04/2054,552,Hectáreas,Concesión
-3,185658 TEZIUTLÁN UNO,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,27/04/2004,26/04/2054,129,Hectáreas,Concesión
-4,185659 TEZIUTLÁN SEIS,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,27/04/2004,26/04/2054,86,Hectáreas,Concesión
-5,221610 CAPULINES ,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,27/04/2004,26/04/2054,236,Hectáreas,Concesión
-6,230474 CAPULINES I,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,27/04/2004,26/04/2054,272,Hectáreas,Concesión
-7,210459 ACATENO ,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,27/04/2004,26/04/2054,5228,Hectáreas,Concesión
-8,208800 AIRE LIBRE,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,27/04/2004,26/04/2054,45,Hectáreas,Concesión
-9,207579 EL RINCON,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,27/04/2004,26/04/2054,400,Hectáreas,Concesión
-10,205537 EL RINCON I,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,27/04/2004,26/04/2054,250,Hectáreas,Concesión
-11,207578 TEZIUTLÁN 2000,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,27/04/2004,26/04/2054,36,Hectáreas,Concesión
-12,219298 ATEXCACO I,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,27/04/2004,26/04/2054,5381,Hectáreas,Concesión
-13,220979 ATEXCACO ,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,27/04/2004,26/04/2054,801,Hectáreas,Concesión
-14,221609 ATEXCACO II,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,27/04/2004,26/04/2054,1991,Hectáreas,Concesión
-15,231055 ATEXCACO III,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,27/04/2004,26/04/2054,915,Hectáreas,Concesión
-16,211777 GUADALUPE ,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,27/04/2004,26/04/2054,444,Hectáreas,Concesión
-17,230486 GUADALUPE 2,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,27/04/2004,26/04/2054,171,Hectáreas,Concesión
-18,208799 MACUILQUILA ,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,04/03/2004,03/03/2054,255,Hectáreas,Concesión
-19,230586 ACATENO 2,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,04/03/2004,03/03/2054,420,Hectáreas,Concesión
-20,220236 AMPLIACION ATEXCACO,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,11/11/2003,10/11/2053,99,Hectáreas,Concesión
-21,226438 TRES CABEZAS,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,25/02/2003,24/02/2053,225,Hectáreas,Concesión
-22,210459 ACATENO,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,COMPAÑIA RECUPERADORA DE ESCORIAS SA DE CV,08/10/1999,07/10/2049,5228.0206,Hectáreas,Concesión
-23,231055 ATEXCACO III,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,GRUPO FERROMINERO SA DE CV,30/11/2007,29/11/2057,915.3891,Hectáreas,Concesión
-24,230474 CAPULINES I,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,GRUPO FERROMINERO SA DE CV,06/09/2007,05/09/2057,272,Hectáreas,Concesión
-25,230486 GUADALUPE 2,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,GRUPO FERROMINERO SA DE CV,06/09/2007,05/09/2057,171.2199,Hectáreas,Concesión
-26,230586 ACATENO 2,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,GRUPO FERROMINERO SA DE CV,21/09/2007,20/09/2057,420,Hectáreas,Concesión
-27,226438 3 CABEZAS,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,GRUPO FERROMINERO SA DE CV,17/01/2006,16/01/2056,225,Hectáreas,Concesión
-28,211777 GUADALUPE,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,GRUPO FERROMINERO SA DE CV,28/07/2000,27/07/2050,444,Hectáreas,Concesión
-29,220236 AMPLIACION ATEXCACO,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,GRUPO FERROMINERO SA DE CV,25/06/2003,24/06/2053,98.7612,Hectáreas,Concesión
-30,224307 METEPEC 2,MINERÍA NO METÁLICA,SECRETARÍA DE ECONOMÍA,MATERIAS PRIMAS MINERALES DE AHUAZOTEPEC S DE RL DE CV,22/04/2005,21/04/2055,204.6127,Hectáreas,Concesión
-31,232660 LA FABRICA,MINERÍA NO METÁLICA,SECRETARÍA DE ECONOMÍA,MATERIAS PRIMAS MINERALES DE AHUAZOTEPEC S DE RL DE CV,02/10/2008,01/10/2058,135.7165,Hectáreas,Concesión
-32,127990 EUGENIO YARTE,MINERÍA NO METÁLICA,SECRETARÍA DE ECONOMÍA,MATERIAS PRIMAS MINERALES DE AHUAZOTEPEC S DE RL DE CV,19/01/1961,18/01/2011,92,Hectáreas,Concesión
-33,127991 FAMILIA YARTE,MINERÍA NO METÁLICA,SECRETARÍA DE ECONOMÍA,MATERIAS PRIMAS MINERALES DE AHUAZOTEPEC S DE RL DE CV,19/01/1961,18/01/2011,96,Hectáreas,Concesión
-34,214445 METEPEC,MINERÍA NO METÁLICA,SECRETARÍA DE ECONOMÍA,MATERIAS PRIMAS MINERALES DE AHUAZOTEPEC S DE RL DE CV,06/09/2001,05/09/2051,106.016,Hectáreas,Concesión
-35,213244 ZACATLAN TRES,MINERÍA NO METÁLICA,SECRETARÍA DE ECONOMÍA,MATERIAS PRIMAS MINERALES DE AHUAZOTEPEC S DE RL DE CV,10/04/2001,09/04/2051,24,Hectáreas,Concesión
-36,208799 MACUILQUILA,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,MINAS DE SANTA MARTHA SA,15/12/1998,14/12/2048,255,Hectáreas,Concesión
-37,208800 AIRE LIBRE,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,MINAS DE SANTA MARTHA SA,15/12/1998,14/12/2048,45,Hectáreas,Concesión
-38,207579 EL RINCON,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,MINAS DE SANTA MARTHA SA,30/06/1998,29/06/2048,400,Hectáreas,Concesión
-39,207578 TEZIUTLAN 2000,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,MINAS DE SANTA MARTHA SA,30/06/1998,29/06/2048,36,Hectáreas,Concesión
-40,205537 EL RINCON I,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,MINAS DE SANTA MARTHA SA,19/09/1997,19/09/2047,250,Hectáreas,Concesión
-41,232023 LA FRUTA,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,MINERA GAVILAN SA DE CV,03/06/2008,02/06/2058,3469.3722,Hectáreas,Concesión
-42,238640 EL CHATO,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,MINERA GAVILAN SA DE CV,11/10/2011,10/10/2061,16120,Hectáreas,Concesión
-43,245486 CERRO GRANDE R1,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,MINERA GORRION SA DE CV,29/05/2017,05/03/2053,2773,Hectáreas,Concesión
-44,245487 CERRO GRANDE R2,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,MINERA GORRION SA DE CV,29/05/2017,05/03/2053,203,Hectáreas,Concesión
-45,245488 CERRO GRANDE R3,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,MINERA GORRION SA DE CV,29/05/2017,05/03/2053,824.0595,Hectáreas,Concesión
-46,245489 CERRO GRANDE R4,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,MINERA GORRION SA DE CV,29/05/2017,05/03/2053,540,Hectáreas,Concesión
-47,245490 CERRO GRANDE R5,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,MINERA GORRION SA DE CV,29/05/2017,05/03/2053,784.9733,Hectáreas,Concesión
-48,245491 CERRO GRANDE R6,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,MINERA GORRION SA DE CV,29/05/2017,05/03/2053,937.7857,Hectáreas,Concesión
-49,245494 CERRO GRANDE 2 R3,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,MINERA GORRION SA DE CV,29/05/2017,23/02/2059,708,Hectáreas,Concesión
-50,245493 CERRO GRANDE 2 R2,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,MINERA GORRION SA DE CV,29/05/2017,23/02/2059,652,Hectáreas,Concesión
-51,245492 CERRO GRANDE 2 R1,MINERÍA METÁLICA,SECRETARÍA DE ECONOMÍA,MINERA GORRION SA DE CV,29/05/2017,23/02/2059,564,Hectáreas,Concesión
-52,220965 LA ESCONDIDA,MINERÍA NO METÁLICA,SECRETARÍA DE ECONOMÍA,SAUL ROMERO MARTINEZ,11/11/2003,10/11/2009,225,Hectáreas,Concesión
-53,A-0004-4M-CAMPO AGUA FRIA,HIDROCARBUROS,SECRETARÍA DE ENERGÍA,PEMEX,13/08/2013,13/08/2043,10970,Hectáreas,Contrato
-54,A-0055-2M-CAMPO CACAHUATENGO,HIDROCARBUROS,SECRETARÍA DE ENERGÍA,PEMEX,13/08/2013,13/08/2043,5883.09,Hectáreas,Contrato
-55,A-0094-5M-CAMPO COAPECHACA,HIDROCARBUROS,SECRETARÍA DE ENERGÍA,PEMEX,13/08/2013,13/08/2043,25952.04,Hectáreas,Contrato
-56,AR-0460-M-CAMPO SANTIAGO ,HIDROCARBUROS,SECRETARÍA DE ENERGÍA,PEMEX,29/08/2014,En Modificación,555.76,Hectáreas,Contrato
-57,A-0107-4M-CAMPO COYULA ,HIDROCARBUROS,SECRETARÍA DE ENERGÍA,PEMEX,13/08/2013,13/08/2043,19459.49,Hectáreas,Contrato
-58,A-0217-2M-CAMPO MIQUETLA,HIDROCARBUROS,SECRETARÍA DE ENERGÍA,PEMEX,13/08/2013,13/08/2043,20323.03,Hectáreas,Contrato
-59,A-0255-M-CAMPO PALO BLANCO,HIDROCARBUROS,SECRETARÍA DE ENERGÍA,PEMEX,13/08/2013,13/08/2043,8487,Hectáreas,Contrato
-60,AE-0121-M-TAMPICO MISANTLA,HIDROCARBUROS,SECRETARÍA DE ENERGÍA,PEMEX,28/08/2019,28/08/2049,62822.98,Hectáreas,Contrato
-61,AE-0122-M-TAMPICO MISANTLA,HIDROCARBUROS,SECRETARÍA DE ENERGÍA,PEMEX,28/08/2019,28/08/2049,78758.76,Hectáreas,Contrato
-62,AE-0175-2M-CHUYAN,HIDROCARBUROS,SECRETARÍA DE ENERGÍA,PEMEX,28/10/2020,28/10/2050,193565.37,Hectáreas,Contrato
-63,AE-0182-M-WAYA,HIDROCARBUROS,SECRETARÍA DE ENERGÍA,PEMEX,29/03/2021,29/03/2051,35180.77,Hectáreas,Contrato
-64,AE-0183-FURBERO,HIDROCARBUROS,SECRETARÍA DE ENERGÍA,PEMEX,29/03/2021,29/03/2051,92500.38,Hectáreas,Contrato
-65,AE-0382-5M-AMATITLÁN,HIDROCARBUROS,SECRETARÍA DE ENERGÍA,PEMEX,13/08/2014,13/08/2044,24270.75,Hectáreas,Contrato
-66,AE-0387-4M-HUMAPA ,HIDROCARBUROS,SECRETARÍA DE ENERGÍA,PEMEX,13/08/2014,13/08/2044,15727.5,Hectáreas,Contrato
-67,AR-0416-2M-CAMPO COYOL,HIDROCARBUROS,SECRETARÍA DE ENERGÍA,PEMEX,29/08/2014,En adelante,28341.51,Hectáreas,Contrato
-68,E/574/AUT/2007-CENTRAL HIDROELÉCTRICA ATEXCACO ,GENERACIÓN DE ENERGÍA,COMISIÓN REGULADORA DE ENERGÍA,COMPAÑIA MINERA AUTLÁN SA DE CV,16/01/2007,16/01/2037,78.3609,Hectáreas,Permiso
-69,E/1067/AUT/2013-PROYECTO HIDROELÉCTRICA PUEBLA 1,GENERACIÓN DE ENERGÍA,COMISIÓN REGULADORA DE ENERGÍA,DESELEC 1 S DE RL DE CV,09/12/2011,09/12/2041,17.5109,Hectáreas,Permiso
-70,MINA ECOMINERALI 1,MINERÍA NO METÁLICA,SECRETARÍA DE ECONOMÍA,ECOMINERALI MEXICANA SA DE CV,28/03/2018,28/03/2038,7.9,Hectáreas,Concesión
-71,E/1984/GEN/2017-PROYECTO FOTOVOLTAICO PACHAMAMA II,GENERACIÓN DE ENERGÍA,COMISIÓN REGULADORA DE ENERGÍA,ENR NL SA DE CV,05/03/2018,05/03/2043,1146,Hectáreas,Permiso
-72,EXTRACCIÓN EN MINA Y LAVADO DE FELDESPATO (2004),MINERÍA NO METÁLICA,SECRETARÍA DE ECONOMÍA,FELDMEX SA DE CV,03/10/2011,03/10/2021,5,Hectáreas,Concesión
-73,EXTRACCIÓN EN MINA Y LAVADO DE FELDESPATO (2011),MINERÍA NO METÁLICA,SECRETARÍA DE ECONOMÍA,FELDMEX SA DE CV,18/05/2004,18/05/2014,4.3,Hectáreas,Concesión
-74,CENTRAL FOTOVOLTAICA CUYOACO-200 MW,GENERACIÓN DE ENERGÍA,COMISIÓN REGULADORA DE ENERGÍA,IBERDROLA RENOVABLES NORTE SA DE CV,22/02/2017,22/02/2042,755,Hectáreas,Permiso
-75,SISTEMA HIDROELÉCTRICO DE NECAXA,ENERGÍA HIDROELÉCTRICA,SERVICIO DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES,GENERADORA FÉNIX SAPI DE CV,07/10/2015,07/10/2045,140000,Hectáreas,Contrato
+2,222009 Teziutlán 2001,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,27/04/2004,26/04/2054,552,Hectáreas,Concesión
+3,185658 Teziutlán Uno,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,27/04/2004,26/04/2054,129,Hectáreas,Concesión
+4,185659 Teziutlán Seis,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,27/04/2004,26/04/2054,86,Hectáreas,Concesión
+5,221610 Capulines ,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,27/04/2004,26/04/2054,236,Hectáreas,Concesión
+6,230474 Capulines I,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,27/04/2004,26/04/2054,272,Hectáreas,Concesión
+7,210459 Acateno ,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,27/04/2004,26/04/2054,5228,Hectáreas,Concesión
+8,208800 Aire Libre,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,27/04/2004,26/04/2054,45,Hectáreas,Concesión
+9,207579 El Rincon,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,27/04/2004,26/04/2054,400,Hectáreas,Concesión
+10,205537 El Rincon I,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,27/04/2004,26/04/2054,250,Hectáreas,Concesión
+11,207578 Teziutlán 2000,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,27/04/2004,26/04/2054,36,Hectáreas,Concesión
+12,219298 Atexcaco I,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,27/04/2004,26/04/2054,5381,Hectáreas,Concesión
+13,220979 Atexcaco ,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,27/04/2004,26/04/2054,801,Hectáreas,Concesión
+14,221609 Atexcaco Ii,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,27/04/2004,26/04/2054,1991,Hectáreas,Concesión
+15,231055 Atexcaco Iii,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,27/04/2004,26/04/2054,915,Hectáreas,Concesión
+16,211777 Guadalupe ,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,27/04/2004,26/04/2054,444,Hectáreas,Concesión
+17,230486 Guadalupe 2,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,27/04/2004,26/04/2054,171,Hectáreas,Concesión
+18,208799 Macuilquila ,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,04/03/2004,03/03/2054,255,Hectáreas,Concesión
+19,230586 Acateno 2,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,04/03/2004,03/03/2054,420,Hectáreas,Concesión
+20,220236 Ampliacion Atexcaco,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,11/11/2003,10/11/2053,99,Hectáreas,Concesión
+21,226438 Tres Cabezas,Minería Metálica,Secretaría de Economía,Compañía Minera Autlán SAB de CV,25/02/2003,24/02/2053,225,Hectáreas,Concesión
+68,E/574/AUT/2007 Central Hidroeléctrica Atexcaco,Energía Hidroeléctrica,Comisión Reguladora de Energía,Compañía Minera Autlán SAB de CV,16/01/2007,16/01/2037,78.3609,Hectáreas,Permiso
+22,210459 Acateno,Minería Metálica,Secretaría de Economía,Compañía Recuperadora de Escorias SA de CV,08/10/1999,07/10/2049,5228.0206,Hectáreas,Concesión
+69,E/1067/AUT/2013 Proyecto Hidroeléctrica Puebla 1,Energía Hidroeléctrica,Comisión Reguladora de Energía,Deselec 1 S de RL de CV,09/12/2011,09/12/2041,17.5109,Hectáreas,Permiso
+70,Mina Ecominerali 1,Minería No Metálica,Secretaría de Economía,Ecominerali Mexicana SA de CV,28/03/2018,28/03/2038,7.9,Hectáreas,Concesión
+71,E/1984/GEN/2017 Proyecto Fotovoltaico Pachamama Ii,Energía Fotovoltaica,Comisión Reguladora de Energía,ENR NL SA de CV,05/03/2018,05/03/2043,1146,Hectáreas,Permiso
+72,Extracción en Mina y Lavado de Feldespato (2004),Minería No Metálica,Secretaría de Economía,Feldmex SA de CV,03/10/2011,03/10/2021,5,Hectáreas,Concesión
+73,Extracción en Mina y Lavado de Feldespato (2011),Minería No Metálica,Secretaría de Economía,Feldmex SA de CV,18/05/2004,18/05/2014,4.3,Hectáreas,Concesión
+75,Sistema Hidroeléctrico de Necaxa,Energía Hidroeléctrica,Servicio de Administración y Enajenación de Bienes,Generadora Fénix SAPI de CV,07/10/2015,07/10/2045,140000,Hectáreas,Contrato
+23,231055 Atexcaco Iii,Minería Metálica,Secretaría de Economía,Grupo Ferrominero SA de CV,30/11/2007,29/11/2057,915.3891,Hectáreas,Concesión
+24,230474 Capulines I,Minería Metálica,Secretaría de Economía,Grupo Ferrominero SA de CV,06/09/2007,05/09/2057,272,Hectáreas,Concesión
+25,230486 Guadalupe 2,Minería Metálica,Secretaría de Economía,Grupo Ferrominero SA de CV,06/09/2007,05/09/2057,171.2199,Hectáreas,Concesión
+26,230586 Acateno 2,Minería Metálica,Secretaría de Economía,Grupo Ferrominero SA de CV,21/09/2007,20/09/2057,420,Hectáreas,Concesión
+27,226438 3 Cabezas,Minería Metálica,Secretaría de Economía,Grupo Ferrominero SA de CV,17/01/2006,16/01/2056,225,Hectáreas,Concesión
+28,211777 Guadalupe,Minería Metálica,Secretaría de Economía,Grupo Ferrominero SA de CV,28/07/2000,27/07/2050,444,Hectáreas,Concesión
+29,220236 Ampliacion Atexcaco,Minería Metálica,Secretaría de Economía,Grupo Ferrominero SA de CV,25/06/2003,24/06/2053,98.7612,Hectáreas,Concesión
+74,Central Fotovoltaica Cuyoaco-200 Mw,Energía Fotovoltaica,Comisión Reguladora de Energía,Iberdrola Renovables Norte SA de CV,22/02/2017,22/02/2042,755,Hectáreas,Permiso
+30,224307 Metepec 2,Minería No Metálica,Secretaría de Economía,Materias Primas Minerales de Ahuazotepec S de RL de CV,22/04/2005,21/04/2055,204.6127,Hectáreas,Concesión
+31,232660 La Fabrica,Minería No Metálica,Secretaría de Economía,Materias Primas Minerales de Ahuazotepec S de RL de CV,02/10/2008,01/10/2058,135.7165,Hectáreas,Concesión
+32,127990 Eugenio Yarte,Minería No Metálica,Secretaría de Economía,Materias Primas Minerales de Ahuazotepec S de RL de CV,19/01/1961,18/01/2011,92,Hectáreas,Concesión
+33,127991 Familia Yarte,Minería No Metálica,Secretaría de Economía,Materias Primas Minerales de Ahuazotepec S de RL de CV,19/01/1961,18/01/2011,96,Hectáreas,Concesión
+34,214445 Metepec,Minería No Metálica,Secretaría de Economía,Materias Primas Minerales de Ahuazotepec S de RL de CV,06/09/2001,05/09/2051,106.016,Hectáreas,Concesión
+35,213244 Zacatlan Tres,Minería No Metálica,Secretaría de Economía,Materias Primas Minerales de Ahuazotepec S de RL de CV,10/04/2001,09/04/2051,24,Hectáreas,Concesión
+36,208799 Macuilquila,Minería Metálica,Secretaría de Economía,Minas de Santa Martha SA,15/12/1998,14/12/2048,255,Hectáreas,Concesión
+37,208800 Aire Libre,Minería Metálica,Secretaría de Economía,Minas de Santa Martha SA,15/12/1998,14/12/2048,45,Hectáreas,Concesión
+38,207579 El Rincon,Minería Metálica,Secretaría de Economía,Minas de Santa Martha SA,30/06/1998,29/06/2048,400,Hectáreas,Concesión
+39,207578 Teziutlan 2000,Minería Metálica,Secretaría de Economía,Minas de Santa Martha SA,30/06/1998,29/06/2048,36,Hectáreas,Concesión
+40,205537 El Rincon I,Minería Metálica,Secretaría de Economía,Minas de Santa Martha SA,19/09/1997,19/09/2047,250,Hectáreas,Concesión
+41,232023 La Fruta,Minería Metálica,Secretaría de Economía,Minera Gavilán SA de CV,03/06/2008,02/06/2058,3469.3722,Hectáreas,Concesión
+42,238640 El Chato,Minería Metálica,Secretaría de Economía,Minera Gavilán SA de CV,11/10/2011,10/10/2061,16120,Hectáreas,Concesión
+43,245486 Cerro Grande R1,Minería Metálica,Secretaría de Economía,Minera Gorrión SA de CV,29/05/2017,05/03/2053,2773,Hectáreas,Concesión
+44,245487 Cerro Grande R2,Minería Metálica,Secretaría de Economía,Minera Gorrión SA de CV,29/05/2017,05/03/2053,203,Hectáreas,Concesión
+45,245488 Cerro Grande R3,Minería Metálica,Secretaría de Economía,Minera Gorrión SA de CV,29/05/2017,05/03/2053,824.0595,Hectáreas,Concesión
+46,245489 Cerro Grande R4,Minería Metálica,Secretaría de Economía,Minera Gorrión SA de CV,29/05/2017,05/03/2053,540,Hectáreas,Concesión
+47,245490 Cerro Grande R5,Minería Metálica,Secretaría de Economía,Minera Gorrión SA de CV,29/05/2017,05/03/2053,784.9733,Hectáreas,Concesión
+48,245491 Cerro Grande R6,Minería Metálica,Secretaría de Economía,Minera Gorrión SA de CV,29/05/2017,05/03/2053,937.7857,Hectáreas,Concesión
+49,245494 Cerro Grande 2 R3,Minería Metálica,Secretaría de Economía,Minera Gorrión SA de CV,29/05/2017,23/02/2059,708,Hectáreas,Concesión
+50,245493 Cerro Grande 2 R2,Minería Metálica,Secretaría de Economía,Minera Gorrión SA de CV,29/05/2017,23/02/2059,652,Hectáreas,Concesión
+51,245492 Cerro Grande 2 R1,Minería Metálica,Secretaría de Economía,Minera Gorrión SA de CV,29/05/2017,23/02/2059,564,Hectáreas,Concesión
+53,A-0004-4m-Campo Agua Fria,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,10970,Hectáreas,Contrato
+54,A-0055-2m-Campo Cacahuatengo,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,5883.09,Hectáreas,Contrato
+55,A-0094-5m-Campo Coapechaca,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,25952.04,Hectáreas,Contrato
+56,Ar-0460-M-Campo Santiago ,Hidrocarburos,Secretaría de Energía,PEMEX,29/08/2014,En Modificación,555.76,Hectáreas,Contrato
+57,A-0107-4m-Campo Coyula ,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,19459.49,Hectáreas,Contrato
+58,A-0217-2m-Campo Miquetla,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,20323.03,Hectáreas,Contrato
+59,A-0255-M-Campo Palo Blanco,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,8487,Hectáreas,Contrato
+60,Ae-0121-M-Tampico Misantla,Hidrocarburos,Secretaría de Energía,PEMEX,28/08/2019,28/08/2049,62822.98,Hectáreas,Contrato
+61,Ae-0122-M-Tampico Misantla,Hidrocarburos,Secretaría de Energía,PEMEX,28/08/2019,28/08/2049,78758.76,Hectáreas,Contrato
+62,Ae-0175-2m-Chuyan,Hidrocarburos,Secretaría de Energía,PEMEX,28/10/2020,28/10/2050,193565.37,Hectáreas,Contrato
+63,Ae-0182-M-Waya,Hidrocarburos,Secretaría de Energía,PEMEX,29/03/2021,29/03/2051,35180.77,Hectáreas,Contrato
+64,Ae-0183-Furbero,Hidrocarburos,Secretaría de Energía,PEMEX,29/03/2021,29/03/2051,92500.38,Hectáreas,Contrato
+65,Ae-0382-5m-Amatitlán,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2014,13/08/2044,24270.75,Hectáreas,Contrato
+66,Ae-0387-4m-Humapa ,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2014,13/08/2044,15727.5,Hectáreas,Contrato
+67,Ar-0416-2m-Campo Coyol,Hidrocarburos,Secretaría de Energía,PEMEX,29/08/2014,En adelante,28341.51,Hectáreas,Contrato
+1,Gasoducto Tuxpan-Tula,Hidrocarburos,Comisión Reguladora de Energía,Transportadora de Gas Natural de la Huasteca S de RL de CV,16/02/2017,16/02/2047,1,Hectáreas,Permiso

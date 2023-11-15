@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-video: https://vimeo.com/579490899/d6582d7fb9?share=copy
+video: https://www.youtube.com/embed/R7bMmM6nO3k?si=w_HuiTrn1d_hD4TS
 ---
 
 # Incendios Forestales en la Sierra Norte de Puebla

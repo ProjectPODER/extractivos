@@ -21,7 +21,7 @@ El proyecto utiliza el sistema Tower Builder, creado por PODER, para generar si
 
 # Créditos
 
-- Investigación: Isabel Clavijo, Samantha Camacho, Diana Alejandra Silva y Erik Post
+- Investigación: Samantha Camacho, Diana Alejandra Silva y Erik Post
 - Cartografía: Samantha Camacho
 - Desarrollo: Marisol Carrillo
 - Diseño editorial e ilustración: Adrián Sánchez Martínez
