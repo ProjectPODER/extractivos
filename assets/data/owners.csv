@@ -67,8 +67,8 @@ James Duane Poliquin,persona,Almaden Minerals LTD,boardmember
 John Alan Thomas,persona,Almaden Minerals LTD,boardmember
 Korm Trieu,persona,Almaden Minerals LTD,boardmember
 Morgan James Poliquin,persona,Almaden Minerals LTD,boardmember
-Almadex Minerals LTD,empresa,,
-Minera Gavilán SA de CV,empresa,Almadex Minerals LTD,parent
+Minera Gavilán SA de CV,empresa,,
+Almadex Minerals LTD,empresa,Minera Gavilán SA de CV,parent
 Douglas John McDonald,persona,Almadex Minerals LTD,shareholder
 Euro Pacific Asset Management LLC,empresa,Almadex Minerals LTD,shareholder
 James Duane Poliquin,persona,Almadex Minerals LTD,shareholder
@@ -83,10 +83,14 @@ James Duane Poliquin,persona,Almadex Minerals LTD,boardmember
 Morgan James Poliquin,persona,Almadex Minerals LTD,boardmember
 Tracey Meintjes,persona,Almadex Minerals LTD,boardmember
 Autlán Holding SAPI de CV,empresa,,
-Compañía Minera Autlán SAB de CV,empresa,Autlán Holding SAPI de CV,parent
-Compañía Recuperadora de Escorias SA de CV,empresa,Autlán Holding SAPI de CV,parent
-Grupo Ferrominero SA de CV,empresa,Autlán Holding SAPI de CV,parent
-Minas de Santa Martha SA,empresa,Autlán Holding SAPI de CV,parent
+Compañía Minera Autlán SAB de CV,empresa,,
+Compañía Recuperadora de Escorias SA de CV,empresa,,
+Grupo Ferrominero SA de CV,empresa,,
+Minas de Santa Martha SA,empresa,,
+Autlán Holding SAPI de CV,empresa,Compañía Minera Autlán SAB de CV,parent
+Autlán Holding SAPI de CV,empresa,Compañía Recuperadora de Escorias SA de CV,parent
+Autlán Holding SAPI de CV,empresa,Grupo Ferrominero SA de CV,parent
+Autlán Holding SAPI de CV,empresa,Minas de Santa Martha SA,parent
 Fideicomiso de la Familia Rivero González,empresa,Autlán Holding SAPI de CV,shareholder
 Antonio Elosúa González,persona,Autlán Holding SAPI de CV,boardmember
 Dionisio Garza Medina Sarda,persona,Autlán Holding SAPI de CV,boardmember
