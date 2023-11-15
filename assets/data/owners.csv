@@ -186,6 +186,9 @@ Vanguard Group Inc.,empresa,Neoen SA,shareholder
 Xavier Barbaro,persona,Neoen SA,shareholder
 Generadora Fénix SAPI de CV,empresa,,
 LF del Centro SC de RL de CV,empresa,Generadora Fénix SAPI de CV,parent
+Sindicato Mexicano de Electricistas,empresa,Generadora Fénix SAPI de CV,parent
+MOTA-ENGIL México SA de CV,empresa,Generadora Fénix SAPI de CV,parent
+MOTA-ENGIL SGPS SA,empresa,MOTA-ENGIL México SA de CV,parent
 Braulio Ojeda Garcia,persona,LF del Centro SC de RL de CV,shareholder
 Carlos Armando Salas Loza,persona,LF del Centro SC de RL de CV,shareholder
 Dolores Victor Vargas Reyes,persona,LF del Centro SC de RL de CV,shareholder
@@ -211,11 +214,6 @@ Modesto Gutierrez Monasterio,persona,LF del Centro SC de RL de CV,shareholder
 Monica Jimenez Acosta,persona,LF del Centro SC de RL de CV,shareholder
 Rafael Ramirez Grijalva,persona,LF del Centro SC de RL de CV,shareholder
 Ricardo Perez Flores,persona,LF del Centro SC de RL de CV,shareholder
-Generadora Fénix SAPI de CV,empresa,,
-Sindicato Mexicano de Electricistas,empresa,Generadora Fénix SAPI de CV,parent
-MOTA-ENGIL México SA de CV,empresa,Generadora Fénix SAPI de CV,parent
-MOTA-ENGIL México SA de CV,empresa,,
-MOTA-ENGIL SGPS SA,empresa,MOTA-ENGIL México SA de CV,parent
 China Communications Construction Co LTD,empresa,MOTA-ENGIL SGPS SA,shareholder
 Epoch Capital Investments BV,empresa,MOTA-ENGIL SGPS SA,shareholder
 FM - Sociedade de Controlo SGPS SA,empresa,MOTA-ENGIL SGPS SA,shareholder
@@ -235,7 +233,6 @@ Paulo Sacadura Cabral Portas,persona,MOTA-ENGIL SGPS SA,boardmember
 Ping Ping,persona,MOTA-ENGIL SGPS SA,boardmember
 Sofia Salgado Cerveira Pinto,persona,MOTA-ENGIL SGPS SA,boardmember
 Xiao Di,persona,MOTA-ENGIL SGPS SA,boardmember
-MOTA-ENGIL México SA de CV,empresa,Generadora Fénix SAPI de CV,parent
 PEMEX,gobierno,,
 Gobierno de México,gobierno,PEMEX,shareholder
 Transportadora de Gas Natural de la Huasteca S de RL de CV,empresa,,
