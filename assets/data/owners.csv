@@ -124,9 +124,20 @@ Adolfo González Garrido,persona,Feldmex SA de CV,shareholder
 José Vicente Etelberto González Cazares,persona,Feldmex SA de CV,shareholder
 Ludivina Orta Torres,persona,Feldmex SA de CV,shareholder
 Mexican Silicates SA de CV,empresa,Feldmex SA de CV,parent
-Adolfo González Garrido,persona,Feldmex SA de CV,boardmember
-Carlos González Garrido,persona,Feldmex SA de CV,boardmember
-Simone Amico,persona,Feldmex SA de CV,boardmember
+Gruppo Minerali Maffie SpA,empresa,Mexican Silicates SA de CV,parent
+Ecominerali Mexicana SA de CV,empresa,,
+Gruppo Minerali Maffie SpA,empresa,Ecominerali Mexicana SA de CV,parent
+Iniziative Minerarie SRL,empresa,Gruppo Minerali Maffie SpA,shareholder
+Pavim SRL,empresa,Gruppo Minerali Maffie SpA,shareholder
+Andrea Bettini,persona,Gruppo Minerali Maffie SpA,boardmember
+Giuliano Colavito,persona,Gruppo Minerali Maffie SpA,boardmember
+Marco Bargioni,persona,Gruppo Minerali Maffie SpA,boardmember
+Paolo Danasino,persona,Gruppo Minerali Maffie SpA,boardmember
+Pier Camillo Baù,persona,Gruppo Minerali Maffie SpA,boardmember
+Pierangelo Stangalino,persona,Gruppo Minerali Maffie SpA,boardmember
+Sabrina Bozzola,persona,Gruppo Minerali Maffie SpA,boardmember
+Stefano Tronconi,persona,Gruppo Minerali Maffie SpA,boardmember
+Vera Ramon,persona,Gruppo Minerali Maffie SpA,boardmember
 Deselec 1 S de RL de CV,empresa,,
 Corporación Mexicana De Hidroelectricidad SA De CV,empresa,Deselec 1 S de RL de CV,parent
 Enel SpA,empresa,Corporación Mexicana De Hidroelectricidad SA De CV,parent
@@ -139,21 +150,6 @@ Vanguard Group Inc.,empresa,Enel SpA,shareholder
 Carlos Jinich Ripstein,persona,Corporación Mexicana De Hidroelectricidad SA De CV,boardmember
 Jacobo Mekler Waisburd,persona,Corporación Mexicana De Hidroelectricidad SA De CV,boardmember
 Solomón Camhaji Samra,persona,Corporación Mexicana De Hidroelectricidad SA De CV,boardmember
-Ecominerali Mexicana SA de CV,empresa,,
-Mexican Silicates SA de CV,empresa,,
-Gruppo Minerali Maffie SpA,empresa,Ecominerali Mexicana SA de CV,parent
-Gruppo Minerali Maffie SpA,empresa,Mexican Silicates SA de CV,parent
-Iniziative Minerarie SRL,empresa,Gruppo Minerali Maffie SpA,shareholder
-Pavim SRL,empresa,Gruppo Minerali Maffie SpA,shareholder
-Andrea Bettini,persona,Gruppo Minerali Maffie SpA,boardmember
-Giuliano Colavito,persona,Gruppo Minerali Maffie SpA,boardmember
-Marco Bargioni,persona,Gruppo Minerali Maffie SpA,boardmember
-Paolo Danasino,persona,Gruppo Minerali Maffie SpA,boardmember
-Pier Camillo Baù,persona,Gruppo Minerali Maffie SpA,boardmember
-Pierangelo Stangalino,persona,Gruppo Minerali Maffie SpA,boardmember
-Sabrina Bozzola,persona,Gruppo Minerali Maffie SpA,boardmember
-Stefano Tronconi,persona,Gruppo Minerali Maffie SpA,boardmember
-Vera Ramon,persona,Gruppo Minerali Maffie SpA,boardmember
 Neoen SA,empresa,,
 Impala SAS,empresa,Neoen SA,parent
 La familia Veyrat,empresa,Impala SAS,shareholder
