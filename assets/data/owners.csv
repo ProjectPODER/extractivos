@@ -1,6 +1,6 @@
 NOMBRE,TIPO_ENTIDAD,RELACIONADO_CON,TIPO_RELACION
-Iberdrola SA,empresa,,
-Iberdrola Renovables Norte SA de CV,empresa,Iberdrola SA,parent
+Iberdrola Renovables Norte SA de CV,empresa,,
+Iberdrola SA,empresa,Iberdrola Renovables Norte SA de CV,parent
 Amundi Asset Management SAS,empresa,Iberdrola SA,shareholder
 BlackRock Inc,empresa,Iberdrola SA,shareholder
 José Ignacio Sánchez Galán ,persona,Iberdrola SA,shareholder
