@@ -6,7 +6,7 @@ permalink: /extractivismo-en-la-snp/
 
 # Mapa del despojo
 
-
+El Mapa del despojo muestra la ubicación de 10 proyectos
 
 
 <div class="embed-responsive embed-responsive-16by9">
