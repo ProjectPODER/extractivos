@@ -849,7 +849,7 @@ function initGraph(data) {
       const node = {
         id: organization._id,
         name: organization.name,
-        activeSize: organization.contracts_count * 2 + 10,
+        activeSize: organization.contracts_count * 1 + 10,
         inactiveSize: 10,
         nodeForce: 10,
         type: 'related',
@@ -1553,7 +1553,7 @@ function setupD3() {
       return d.x - this.getBBox().width / 2;
     }).attr("y", function(d) {
       const fontSize = parseInt(window.getComputedStyle(this, null).getPropertyValue("font-size").split('px')[0]);
-      return d.y - this.getBBox().height / 2 + fontSize;
+      return d.y - this.getBBox().height / 3 + fontSize;
     }).attr("opacity", d => d.opacity);
 
     icon.attr("x", d => d.x + offset).attr("y", d => d.y + offset).attr("opacity", d => d.opacity).attr("class", d => "nodes " + d.type + " " + (d.visibleNode

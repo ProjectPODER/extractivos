@@ -42,3 +42,15 @@ a {
     min-height: 100vh !important;
 }
 
+text.labelText.all.active {
+    font-size: 1.2rem !important;
+    font-weight: bold;
+}
+text.labelText.all {
+    font-size: 0.6rem !important;
+}
+text.labelText.contract_type.active {
+    font-weight: bold;
+    font-size: 0.9rem !important;
+    word-break: break-all;
+}
