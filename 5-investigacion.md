@@ -14,6 +14,6 @@ Frente a la opacidad y la falta de transparencia de las industrias extractivas, 
 
 <!-- Añadir el pdf -->
 <div class="embed-responsive embed-responsive-4by3 mb-4">
-  <iframe class="embed-responsive-item" src="/vacunas-2023/assets/docs/elnegociodelasvacunas2023.pdf"></iframe>
+  <iframe class="embed-responsive-item" src="/extractivos/assets/DOSSIER-CLUA-Proyectos-Extractivos.pdf"></iframe>
 </div>
 <br>
