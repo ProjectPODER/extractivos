@@ -41,7 +41,7 @@ graph:
   - title: "PROYECTOS EXTRACTIVOS"
   # los tamaños minimos y maximos de los nodos (en pixeles, aproximado)
   - sizes:
-    - min: 10
+    - min: 20
     - max: 300
   # colores de nodos y connectores
   - colours:
@@ -74,15 +74,15 @@ amount_title: Hectáreas totales
 amount_from_placeholder: Desde
 amount_to_placeholder: hasta
 type_contract_title: Tipo de contratación
-type_contract_title_tooltip: La ley obliga a la Unidad Compradora a definir el tipo de contratación, ya que varían las normas en cada caso.
+type_contract_title_tooltip: Tipo de contratación Según las CPEUM y las leyes generales la exploración y extracción de recursos naturales se realizará a partir de concesiones, asignaciones, contratos y los permisos emitidos por las autoridades responsables.
 type_contract_all_option: Todo
 type_procedure_title: Tipo de proyecto
-type_procedure_title_tooltip: La licitación pública es según la ley mexicana el procedimiento adecuado para contratar obra publica. Excepcionalmente también se pueden realizar otro tipo de procedimientos como adjudicación directa, convenio e invitación a cuando menos tres proveedores.
+type_procedure_title_tooltip: En la SNP se han otorgado concesiones, asignaciones, contratos y permisos para proyectos de minería metálica y no metálica, generación de energía y extracción de hidrocarburos.
 type_procedure_all_option: Todo
 date_range_title: Rango de fechas
 date_range_from_placeholder: Desde
 date_range_to_placeholder: hasta
-date_range_title_tooltip: Encuentra los contratos activos entre dos fechas.
+date_range_title_tooltip: Encuentra los proyectos activos entre dos fechas.
 filter_footnote_title: Los filtros aplican sobre los proyectos que tienen las empresas.
 # Personaliza los títulos de la tabla
 column_1: Empresas
