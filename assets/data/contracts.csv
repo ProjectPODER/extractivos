@@ -57,19 +57,19 @@ OCID,CONTRACT_TITLE,PROCUREMENT_METHOD,BUYER_NAME,SUPPLIER_NAMES,CONTRACT_START_
 49,245494 Cerro Grande 2 R3,Minería Metálica,Secretaría de Economía,Minera Gorrión SA de CV,29/05/2017,23/02/2059,708,Hectáreas,Concesión
 50,245493 Cerro Grande 2 R2,Minería Metálica,Secretaría de Economía,Minera Gorrión SA de CV,29/05/2017,23/02/2059,652,Hectáreas,Concesión
 51,245492 Cerro Grande 2 R1,Minería Metálica,Secretaría de Economía,Minera Gorrión SA de CV,29/05/2017,23/02/2059,564,Hectáreas,Concesión
-53,A-0004-4m-Campo Agua Fria,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,,Hectáreas,Contrato
-54,A-0055-2m-Campo Cacahuatengo,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,,Hectáreas,Contrato
-55,A-0094-5m-Campo Coapechaca,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,,Hectáreas,Contrato
-56,Ar-0460-M-Campo Santiago ,Hidrocarburos,Secretaría de Energía,PEMEX,29/08/2014,En Modificación,,Hectáreas,Contrato
-57,A-0107-4m-Campo Coyula ,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,,Hectáreas,Contrato
-58,A-0217-2m-Campo Miquetla,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,,Hectáreas,Contrato
-59,A-0255-M-Campo Palo Blanco,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,,Hectáreas,Contrato
-60,Ae-0121-M-Tampico Misantla,Hidrocarburos,Secretaría de Energía,PEMEX,28/08/2019,28/08/2049,,Hectáreas,Contrato
-61,Ae-0122-M-Tampico Misantla,Hidrocarburos,Secretaría de Energía,PEMEX,28/08/2019,28/08/2049,,Hectáreas,Contrato
-62,Ae-0175-2m-Chuyan,Hidrocarburos,Secretaría de Energía,PEMEX,28/10/2020,28/10/2050,,Hectáreas,Contrato
-63,Ae-0182-M-Waya,Hidrocarburos,Secretaría de Energía,PEMEX,29/03/2021,29/03/2051,,Hectáreas,Contrato
-64,Ae-0183-Furbero,Hidrocarburos,Secretaría de Energía,PEMEX,29/03/2021,29/03/2051,,Hectáreas,Contrato
-65,Ae-0382-5m-Amatitlán,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2014,13/08/2044,,Hectáreas,Contrato
-66,Ae-0387-4m-Humapa ,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2014,13/08/2044,,Hectáreas,Contrato
-67,Ar-0416-2m-Campo Coyol,Hidrocarburos,Secretaría de Energía,PEMEX,29/08/2014,En adelante,,Hectáreas,Contrato
+53,A-0004-4m-Campo Agua Fria,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,0,Hectáreas,Contrato
+54,A-0055-2m-Campo Cacahuatengo,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,0,Hectáreas,Contrato
+55,A-0094-5m-Campo Coapechaca,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,0,Hectáreas,Contrato
+56,Ar-0460-M-Campo Santiago ,Hidrocarburos,Secretaría de Energía,PEMEX,29/08/2014,En Modificación,0,Hectáreas,Contrato
+57,A-0107-4m-Campo Coyula ,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,0,Hectáreas,Contrato
+58,A-0217-2m-Campo Miquetla,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,0,Hectáreas,Contrato
+59,A-0255-M-Campo Palo Blanco,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2013,13/08/2043,0,Hectáreas,Contrato
+60,Ae-0121-M-Tampico Misantla,Hidrocarburos,Secretaría de Energía,PEMEX,28/08/2019,28/08/2049,0,Hectáreas,Contrato
+61,Ae-0122-M-Tampico Misantla,Hidrocarburos,Secretaría de Energía,PEMEX,28/08/2019,28/08/2049,0,Hectáreas,Contrato
+62,Ae-0175-2m-Chuyan,Hidrocarburos,Secretaría de Energía,PEMEX,28/10/2020,28/10/2050,0,Hectáreas,Contrato
+63,Ae-0182-M-Waya,Hidrocarburos,Secretaría de Energía,PEMEX,29/03/2021,29/03/2051,0,Hectáreas,Contrato
+64,Ae-0183-Furbero,Hidrocarburos,Secretaría de Energía,PEMEX,29/03/2021,29/03/2051,0,Hectáreas,Contrato
+65,Ae-0382-5m-Amatitlán,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2014,13/08/2044,0,Hectáreas,Contrato
+66,Ae-0387-4m-Humapa ,Hidrocarburos,Secretaría de Energía,PEMEX,13/08/2014,13/08/2044,0,Hectáreas,Contrato
+67,Ar-0416-2m-Campo Coyol,Hidrocarburos,Secretaría de Energía,PEMEX,29/08/2014,0,Hectáreas,Contrato
 1,Gasoducto Tuxpan-Tula,Hidrocarburos,Comisión Reguladora de Energía,Transportadora de Gas Natural de la Huasteca S de RL de CV,16/02/2017,16/02/2047,,Hectáreas,Permiso
