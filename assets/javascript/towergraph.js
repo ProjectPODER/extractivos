@@ -849,7 +849,7 @@ function initGraph(data) {
       const node = {
         id: organization._id,
         name: organization.name,
-        activeSize: organization.contracts_count * 1 + 10,
+        activeSize: organization.contracts_count * 2 + 10,
         inactiveSize: 10,
         nodeForce: 10,
         type: 'related',
@@ -1057,7 +1057,7 @@ function initGraph(data) {
                 name: boardName,
                 simple: boardSimple,
                 // activeSize: boardContractsCount * 2 + 10,
-                activeSize: (nodeSizes.min*2) + Math.log2(1 + boardContractsCount/AppData.contracts.length) * (nodeSizes.max - nodeSizes.min),
+                activeSize: (nodeSizes.min*1) + Math.log2(1 + boardContractsCount/AppData.contracts.length/2) * (nodeSizes.max - nodeSizes.min),
                 inactiveSize: 10,
                 topParentNode: false,
                 nodeForce: 10,
