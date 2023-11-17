@@ -1,6 +1,6 @@
 ---
 title: Alternativas de defensa
-image: graphic-example1.png
+image: IMG_7699.jpg
 ---
 
 # Colectivo Regional en Defensa de los Bosques y el Territorio (CRDBT)
