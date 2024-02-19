@@ -6,7 +6,7 @@ permalink: /extractivismo-en-la-snp/
 
 # Mapa del despojo
 
-El Mapa del despojo muestra la ubicación de 12 proyectos extractivos activos en la Sierra Norte de Puebla. Se pueden localizar con los íconos de globo, con colores diferenciandos por los proyectos de minería metálica, de minería no metálica, de generación de energía y de extracción de hidrocarburos. Dando click en cada punto se desplegará una ventana con los detalles sobre quiénes son las empresas que los desarrollan y los municipios afectados.
+El Mapa del despojo muestra la ubicación de 12 proyectos extractivos activos en la Sierra Norte de Puebla. Se pueden localizar con los íconos de globo, con colores diferenciandos por tipo, de los proyectos de minería metálica, de minería no metálica, de generación de energía y de extracción de hidrocarburos. Dando click en cada punto se desplegará una ventana con los detalles sobre quiénes son las empresas que los desarrollan y los municipios afectados.
 Además, en el mapa encontrarás información sobre: la concesiones de agua otorgadas por la Comisión Nacional del Agua para uso industrial, hidroeléctrica, termoeléctricas y agrícola, puntos azules; las concesiones mineras otorgadas por la Secretaría de Economía, polígonos rosas; y las asignaciones de campos para la extracción de hidrocarburos otorgadas por la Comisión Nacional de Hidrocarburos, polígonos violetas. Dando click en cada uno se desplegará una ventana con los detalles sobre el identificador de la concesión o asignación, así como de la superficie que abarca o el volumen de agua autorizado.
 
 <div class="embed-responsive embed-responsive-1by1">
