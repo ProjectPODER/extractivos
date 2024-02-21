@@ -19,5 +19,5 @@ Frente a la opacidad y la falta de transparencia de las industrias extractivas, 
 <br>
 
 <div class="text-center mb-5">
-  <a class="btn btn-secondary" href="" target="_blank" download="https://poderlatam.org/wp-content/uploads/2024/02/SierraEnJuego_SNP.pdf">Descarga el informe</a>
+  <a class="btn btn-secondary" href="" target="_blank" download="poderlatam.org/wp-content/uploads/2024/02/SierraEnJuego_SNP.pdf">Descarga el informe</a>
 </div>
