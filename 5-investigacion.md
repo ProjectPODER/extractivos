@@ -17,3 +17,7 @@ Frente a la opacidad y la falta de transparencia de las industrias extractivas, 
   <iframe class="embed-responsive-item" src="/extractivos/assets/doc_proyectos extractivos_V3.pdf"></iframe>
 </div>
 <br>
+
+<div class="text-center mb-5">
+  <a class="btn btn-secondary" href="" target="_blank" download="">Descarga el informe</a>
+</div>
