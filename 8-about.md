@@ -25,8 +25,8 @@ El proyecto utiliza el sistema Tower Builder, creado por PODER, para generar si
 - Cartografía: Samantha Camacho
 - Desarrollo: Marisol Carrillo
 - Diseño editorial e ilustración: Adrián Sánchez Martínez
-- Redes sociales: Mariela Álvarez Alatriste
-- Comunicación Externa: Paulina Souza
+- Comunicación Externa: Mariela Álvarez Alatriste
+- Coordinación de Comunicación Externa: Paulina Souza
 - Dirección del Proyecto: María Julieta Lamberti
 - Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym
 
