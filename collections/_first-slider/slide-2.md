@@ -1,8 +1,11 @@
 ---
-title: Slide 2
-video: https://www.youtube.com/embed/m7ZOzRhqYhs?si=PuGmxkpNgv-nweLG
+title: Slide 4
+image: DiagnosticoForestalComunitario.png
 ---
 
-# Tesoro vivo
+# Diagnóstico Forestal Comunitario en la SNP
 
-Las comunidades de la Sierra Norte de Puebla son pioneras en la gestión forestal comunitaria. Han desarrollado con éxito esta práctica durante más de 40 años. Actualmente, la zona se encuentra seriamente amenazada por proyectos extractivos que  causarían grandes estragos en los bosques, el agua y los suelos de la región. Para hacer frente a esta situación, las y los defensores del territorio están arriesgando sus vidas llevando este mensaje a los gobiernos y al público en general, mientras que las comunidades se están organizando para reforzar la gestión de sus bosques uniendo sus fuerzas.
+El Diagnóstico Forestal es una herramienta que permite que las personas dedicadas a la silvicultura tengan un panorama más amplio sobre la situación del manejo forestal en sus ejidos y comunidades. Su aplicación periódica permite detectar conflictos en la gestión y la administración del bosque. Los ejidos que conforman el CRDBT cuentan con programas de manejo principalmente dedicados al aprovechamiento industrial-doméstico, en segundo lugar están los aprovechamientos con fines turísticos. En el menor de los casos la producción de madera se deriva a la industria de primera transformación, lo que tienen como resultado un número reducido de aserraderos comunitarios. La industria forestal permite que la población involucrada cuente con una fuente estable de recursos, así como de espacios para la formación de capacidades técnicas, administrativas y de seguimiento de procesos con entidades gubernamentales.
+
+<a class="btn btn-secondary" href="https://poderlatam.org/wp-content/uploads/2024/02/DiagnosticoForestalComunitario.png" target="_blank">Ver infografía completa</a>
+<br>
