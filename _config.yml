@@ -86,7 +86,7 @@ date_range_title_tooltip: Encuentra los proyectos activos entre dos fechas.
 filter_footnote_title: Los filtros aplican sobre los proyectos que tienen las empresas.
 # Personaliza los títulos de la tabla
 column_1: Empresas
-column_2: Cant. de proyectos
+column_2: Contratos, asignaciones o concesiones
 column_3: Hectáreas
 
 # Build settings
