@@ -1801,7 +1801,7 @@ function setupD3() {
                 const contractsAmountText = AppData.texts.contracts_amount_text;
                 return `
                       <p class="title">${projectTitle}</p>
-                <p>Número de proyectos: <span>${contractsTotalText}</span></p>
+                <p>Contratos, asignaciones o concesiones: <span>${contractsTotalText}</span></p>
                 <p>Hectáreas: <span>${contractsAmountText}</span></p>
                 `; // FIXME esto debe ser parametrizable para cambiar el título del proyecto dentro del tooltip
                 break;
@@ -1812,7 +1812,7 @@ function setupD3() {
                 const contractsAmountText = numberWithCommas((+ d.contractsAmount).toFixed(0));
                 return `
                       <p class="title">${d.name}</p>
-                <p>Número de proyectos: <span>${contractsCountText}</span></p>
+                <p>Contratos, asignaciones o concesiones: <span>${contractsCountText}</span></p>
                 <p>Hectáreas: <span>${contractsAmountText}</span></p>
                 `;
                 break;
@@ -1836,7 +1836,7 @@ function setupD3() {
                 const contractsAmount = numberWithCommas((+ d.contractsAmount).toFixed(0));
                 return `
                       <p class="title">${nameText}</p>
-                <p>Número de proyectos: <span>${contractsCountText}</span></p>
+                <p>Contratos, asignaciones o concesiones: <span>${contractsCountText}</span></p>
                 <p>Hectáreas: <span>${contractsAmount}</span></p>
                 `;
                 break;
