@@ -1802,7 +1802,7 @@ function setupD3() {
                 return `
                       <p class="title">${projectTitle}</p>
                 <p>Contratos, asignaciones o concesiones: <span>${contractsTotalText}</span></p>
-                <p>Hectáreas: <span>${contractsAmountText}</span></p>
+                <p>Hectáreas: <span>361,838</span></p>
                 `; // FIXME esto debe ser parametrizable para cambiar el título del proyecto dentro del tooltip
                 break;
               }
