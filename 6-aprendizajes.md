@@ -1,13 +1,13 @@
 ---
 layout: page
-title: La Sierra en juego
-permalink: /proyectos-extractivos-de-la-snp/
+title: Aprendizajes
+permalink: /aprendizajes/
 ---
 
 # Manual de Estrategias Organizativas para la Defensa de los Bosques y el Territorio
 
 
-
+<br>
 <!-- Añadir el pdf -->
 <div class="embed-responsive embed-responsive-4by3 mb-4">
   <iframe class="embed-responsive-item" src="/extractivos/assets/manual_defensasdelbosquefinal.pdf"></iframe>
